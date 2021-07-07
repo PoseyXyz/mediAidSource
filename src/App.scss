@@ -1,0 +1,246 @@
+@import './scss/navbar.scss';
+@import './scss/symptoms.scss';
+@import './scss/diagnosesList.scss';
+@import './scss/diagnosisDetails.scss';
+
+
+%primary-btn{
+  background: #1BBF83;
+  color: #fff;
+  padding: .8rem 1.3rem;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  text-align: center;
+  cursor: pointer;
+transition: .5s ease-in-out;
+margin: .2rem;
+
+}
+%page-boxes{
+  background: #fff;
+  box-shadow: 0 0 6px #DADADA;
+  border-radius: 10px;
+}
+a{
+  text-decoration: none;
+}
+
+.App {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+background: #F5F7F9;
+min-height: 100vh;
+
+font-family: 'Poppins', sans-serif;font-family: 'Poppins', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: "Proxima Nova",system-ui,sans-serif;
+//color: #231f20 !important;
+}
+
+
+
+.home{
+      width: 60%;
+      padding: 2.5em;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    @extend %page-boxes;
+      
+    
+.txt-holder{
+  p{
+    max-width: 45rem;
+    line-height:1.4rem;
+    color: #2B353B;
+  }
+li{
+  font-size: 1.1rem;
+  margin: .8rem 0;
+}
+  button{@extend %primary-btn;}
+  }
+  
+  .img-holder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+      width: 32em;
+      height: 25em;
+    }
+  }
+    
+
+}
+.altSidebar{
+  display: none;
+    
+  
+  .progress-bar{
+    display: flex;
+    width: 6rem;
+    height: .5rem;
+    background: #fff;
+    border-radius: 3px;
+   
+    span{
+      background: #1BBF83;
+      border-radius: 3px;
+      height: .5rem;
+    }
+  }
+}
+
+
+.body{
+  display: flex;
+  justify-content: center;
+align-items: center;
+flex-direction: column;
+position: relative;
+.sidebar{
+  display: flex;
+  gap: 2rem;
+  margin: 2rem;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  background: #1BBF83;
+  border-radius: 10px;
+  width: 58%;
+  
+  i{
+    margin-top: 7px;
+  }
+
+
+
+   
+    
+  }
+}
+@media screen and (max-width:100rem){
+  .home{
+    width: 80% !important;
+    padding: 2em;
+.txt-holder{
+p{
+  max-width: 45rem;
+  line-height:1.4rem;
+  color: #2B353B;
+}
+li{
+font-size: 1.05rem;
+margin: .8rem 0;
+}
+
+}
+
+.img-holder{
+  img{
+    width: 25em;
+    height: 20em;
+  }
+}
+  
+
+}
+.body{
+  .sidebar{
+    gap: 2rem;
+    margin: 2rem;
+    font-size: 1.1rem;
+    background: #1BBF83;
+    border-radius: 10px;
+    width: 60%;
+    
+    i{
+      margin-top: 7px;
+    }
+  }
+}
+
+}
+@media screen and (max-width:70rem){
+  .altSidebar{
+    display: flex !important;
+    font-size: 1.2rem;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+  }
+  .sidebar{
+    display: none !important;
+  }
+  
+}
+
+@media screen and (max-width:64rem){
+  .home{
+    width: 80% !important;
+    padding: 2em;
+  display:flex;
+flex-direction: column-reverse;
+    
+  
+.txt-holder{
+
+li{
+font-size: 1rem;
+margin: .8rem 0;
+}
+
+}
+
+.img-holder{
+  img{
+    width: 22em;
+    height: 15em;
+  }
+}
+  
+
+}
+%primary-btn{
+  padding: .7rem 1rem;
+margin: .1rem;
+
+}
+
+}
+@media screen and (max-width:57rem){
+  .altSidebar{
+    width: 90%;
+  }
+}
+@media screen and (max-width:19rem){
+  .home{
+    width: 70% !important;
+    padding: 1.7em;
+
+    
+  
+.txt-holder{
+
+li{
+font-size: .9rem;
+margin: .6rem 0;
+}
+
+}
+
+.img-holder{
+  img{
+    width: 15em;
+    height: 10em;
+  }
+}
+  
+
+}
+
+
+}
+

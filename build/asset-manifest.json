@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mediAid/static/css/main.3a18a57d.chunk.css",
+    "main.js": "/mediAid/static/js/main.a0a40f73.chunk.js",
+    "main.js.map": "/mediAid/static/js/main.a0a40f73.chunk.js.map",
+    "runtime-main.js": "/mediAid/static/js/runtime-main.3be29c03.js",
+    "runtime-main.js.map": "/mediAid/static/js/runtime-main.3be29c03.js.map",
+    "static/js/2.19740f64.chunk.js": "/mediAid/static/js/2.19740f64.chunk.js",
+    "static/js/2.19740f64.chunk.js.map": "/mediAid/static/js/2.19740f64.chunk.js.map",
+    "static/js/3.36922820.chunk.js": "/mediAid/static/js/3.36922820.chunk.js",
+    "static/js/3.36922820.chunk.js.map": "/mediAid/static/js/3.36922820.chunk.js.map",
+    "index.html": "/mediAid/index.html",
+    "static/css/main.3a18a57d.chunk.css.map": "/mediAid/static/css/main.3a18a57d.chunk.css.map",
+    "static/js/2.19740f64.chunk.js.LICENSE.txt": "/mediAid/static/js/2.19740f64.chunk.js.LICENSE.txt",
+    "static/media/2.c2a53616.png": "/mediAid/static/media/2.c2a53616.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3be29c03.js",
+    "static/js/2.19740f64.chunk.js",
+    "static/css/main.3a18a57d.chunk.css",
+    "static/js/main.a0a40f73.chunk.js"
+  ]
+}

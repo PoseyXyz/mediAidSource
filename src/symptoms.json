@@ -1,0 +1,535 @@
+[
+    {
+        "id":1,
+        "name":"cough",
+        "tag":"cough",
+        "questions":[
+            {
+                "question":"Is your cough producing phlegm?",
+                "tag":"phlegm"
+            },
+            {
+                "question":"Is your cough accompanied by a runny nose?",
+                "tag":"runny-nose"
+            },{
+                "question":"Do you have a sore-throat?",
+                "tag":"sore-throat"
+            },
+            {
+                "question":"Do you feel fatigued or lethargic?",
+                "tag":"fatigue"
+            },
+            {
+                "question":"Are you feeling any aches in your muscles?",
+                "tag":"muscle-aches"
+            },
+            {
+                "question":"Are you feeling feverish?",
+                "tag":"fever"
+            },
+            {
+                "question":"Do you feel any form of chect discomfort?",
+                "tag":"chest-discomfort"
+            },
+            {
+                "question":"Do you wheeze occasionally?",
+                "tag":"wheezes"
+            },
+            {
+                "question":"Is your cough accompanied by shortness of breath?",
+                "tag":"shortness-of breath"
+            },
+            {
+                "question":"Are you experiencing smell-loss?",
+                "tag":"loss-of-smell"
+            },
+            {
+                "question":"Are you experiencing profused sweating?",
+                "tag":"excessive-sweating"
+            },
+            {
+                "question":"Are you experiencing any form of eye pain?",
+                "tag":"eye-pain"
+            }
+        ]    
+    },
+    {
+        "id":2,
+        "tag":"abdominal-pain",
+        "name":"Abdominal-pain",
+        "questions":[
+            {
+                "question":"Do you feel fatigued?",
+                "tag":"fatigue"
+            },
+            {
+                "question":"Are you feverish?",
+                "tag":"fever"
+            },
+            {
+                "question":"Are you experiencing unintended weight-loss",
+                "tag":"weight-loss"
+            },
+            {
+                "question":"Have there been dark dark patches appearing on your skin recently?",
+                "tag":"hyperpigmentation"
+            },
+            {
+                "question":"Do you have salt-cravings?",
+                "tag":"salt-cravings"
+            },
+            {
+                "question":"Do you feel nauseous or irritable?",
+                "tag":"nausea"
+            },
+            {
+                "question":"Have you fainted since the start of the abdominal pain?",
+                "tag":"fainting"
+            },
+            {
+                "question":"Are you experiencing unexplained hair loss?",
+                "tag":"hair-loss"
+            },
+            {
+                "question":"Do you feel dehydrated?",
+                "tag":"dehydration"
+            },
+            {
+                "question":"Do you feel bloated?",
+                "tag":"bloating"
+            },
+            {
+                "question":"Do you have frequent urges to evacuate your bowels?",
+                "tag":"diarrhea"
+            },{
+                "question":"Are you stools bloody?",
+                "tag":"bloody-stools"
+            },
+            {
+                "question":"Does your abdominal pain come with headaches?",
+                "tag":"headaches"
+            },{
+                "question":"Are you experiencing appetite loss?",
+                "tag":"loss-of-appetite"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "tag":"diziness",
+        "name":"Diziness",
+        "questions":[
+            {
+                "question":"Are you feeling fatigued?",
+                "tag":"fatigue"
+            },
+            {
+                "question":"Are you experiencing headaches?",
+                "tag":"headaches"
+            },
+            {
+                "question":"Do you feel constipated?",
+                "tag":"constipation"
+            },
+            {
+                "question":"Are you experiencing extreme thirst?",
+                "tag":"dehydration"
+            },
+            {
+                "question":"Are you experiencing a decrease in urination?",
+                "tag":"decreased-urination"
+            },
+            {
+                "question":"Is your skin drier than usual?",
+                "tag":"dry-skin"
+            },
+            {
+                "question":"Do you feel nauseated?",
+                "tag":"nausea"
+            },
+            {
+                "question":"Are you experiencing profused sweating?",
+                "tag":"excessive-sweating"
+            },
+            {
+                "question":"Are you experiencing any form of chest-pain/discomfort?",
+                "tag":"chest-discomfort"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "tag":"loss-of-appetite",
+        "name":"Loss of appetite",
+        "questions":[
+            {
+                "question":"Do you feel fatigued",
+                "tag":"fatigue"
+            },
+            {
+            "question":"Are you experiencing unintended weight-loss",
+            "tag":"weight-loss"
+        },
+        {
+            "question":"Have there been dark dark patches appearing on your skin recently?",
+            "tag":"hyperpigmentation"
+        },
+        {
+            "question":"Do you have salt-cravings?",
+            "tag":"salt-cravings"
+        },
+        {
+            "question":"Are you feelining nauseous?",
+            "tag":"nausea"
+        },
+        {
+            "question":"Do you feel any for of abdominal pain or discomfort?",
+            "tag":"abdominal-pain"
+        },
+        {
+            "question":"Are you feeling any aches in your muscles",
+            "tag":"muscle-aches"
+        },
+        {
+            "question":"Do you have any form of rashes?",
+            "tag":"rash"
+        },
+        {
+            "question":"Do you feel constipated?",
+            "tag":"constipation"
+        },
+        {
+            "question":"Do you feel feverish?",
+            "tag":"fever"
+        },
+        {
+            "question":"Have you been vomiting?",
+            "tag":"vomitting"
+        },
+        {
+            "question":"Do you have blood in your stools?",
+            "tag":"bloody-stools"
+        },
+        {
+            "question":"Do you experience pain while chewing or swallowing?",
+            "tag":"pain-while-chewing"
+        }
+        ]
+    },
+    {
+        "id":5,
+        "tag":"toe-pain",
+        "name":"Foot/Toe pain",
+        "questions":[
+            {
+                "question":"Is any area of your feet swollen or hard?",
+                "tag":"swollen-toe"
+            },
+            {
+                "question":"Is the affected area bleeding?",
+                "tag":"bleeding-toe"
+            },
+            {
+                "question":"Are you experiencing redness on or around the affected area?",
+                "tag":"toe-redness"
+            },
+            {
+                "question":"Is the affected area oozing pus?",
+                "tag":"pus"
+            },{
+                "question":"Is the movement of the affected area limited?",
+                "tag":"limited-movement"
+            }
+        ]
+    },
+    {
+        "id":6,
+        "tag":"itchy-skin",
+        "name":"Itchiness around the body/skin",
+        "questions":[
+            {
+                "question":"Are blisters present alongside the ithcy feeling",
+                "tag":"blisters"
+            },
+            {
+                "question":"Do you feel a burning sensation alongside the itchiness",
+                "tag":"burning-sensation"
+            },
+            {
+                "question":"Are sores present around the itchy area?",
+                "tag":"sores"
+            },
+            {
+             "question":"Is the itchy area scaly to the touch?",
+             "tag":"scaly-skin"   
+            }
+        ]
+    },
+    {
+        "id":7,
+        "tag":"eye-pain",
+        "name":"Eye discomfort/redness",
+        "questions":[
+            {
+                "question":"Is it accompanied by a runny nose?",
+                "tag":"runny-nose"
+            },
+            {
+                "question":"Do you feel any headaches?",
+                "tag":"headaches"
+            },
+            {
+                "question":"Do you feel feverish?",
+                "tag":"fever"
+            },{
+                "question":"Are your eyes sunken?",
+                "tag":"sunken-eyes"
+            },
+            {
+                "question":"Is there a watery discharge from your eyes?",
+                "tag":"watery-eye"
+            },
+            {
+                "question":"Are your eyes itchy",
+                "tag":"itchy-eyes"
+            }
+        ]
+    },
+    {
+        "id":8,
+        "tag":"headaches",
+        "name":"Headaches",
+        "questions":[
+            {
+                "question":"Do you feel lethargic",
+                "tag":"fatigue"
+            },
+            {
+                "question":"Are you feeling dizzy?",
+                "tag":"diziness"
+            },
+            {
+                "question":"Are you experiencing extreme thirst?",
+                "tag":"dehydration"
+            },
+            {
+                "question":"Are you coughing frequently?",
+                "tag":"cough"
+            },
+            {
+                "question":"Is it accompanied by a runny nose?",
+                "tag":"runny-nose"
+            },
+            {
+              "question":"Are you feeling any aches in your muscles",
+              "tag":"muscle-aches"  
+            },
+            {
+                "question":"Are you experiencing profused sweating?",
+                "tag":"excessive-sweating"
+            },
+            {
+                "question":"Do you have a sore-throat?",
+                "tag":"sore-throat"
+            },
+            {
+                "question":"Are you experiencing appetite loss?",
+                "tag":"loss-of-appetite"
+            },
+            {
+                "question":"Are you feeling feverish?",
+                "tag":"fever"
+            },
+            {
+                "question":"Do you feel constipated?",
+                "tag":"constipation"
+            },
+            {
+                "question":"Do you feel nauseous or irritable?",
+                "tag":"nausea"
+            },
+            {
+                "question":"Is your vision blurry",
+                "tag":"blurry-vision"
+            },{
+                "question":"Do you experience pain while chewing or swallowing?",
+                "tag":"pain-while-chewing"
+            }
+        ]
+    },
+    {
+        "id":9,
+        "tag":"wheezes",
+        "name":"Wheezing",
+        "questions":[
+            {
+                "question":"Do you have a sore-throat?",
+                "tag":"sore-throat"
+            },
+            {
+                "question":"Is it accompanied by a runny nose?",
+                "tag":"runny-nose"
+            },
+            {
+                "question":"Do you feel feverish?",
+                "tag":"fever"
+            },
+            {
+                "question":"Are you feeling fatigued?",
+                "tag":"fatigue"
+            },
+            {
+                "question":"Are you experiencing shortness of breath?",
+                "tag":"shortness-of breath"
+            },
+            {
+                "question":"Do you feel any form of chect discomfort?",
+                "tag":"chest-discomfort"
+            },
+            {
+                "question":"Are you feeling any aches in your muscles",
+                "tag":"muscle-aches"
+            },
+            {
+                "question":"Are you coughing frequently?",
+                "tag":"cough"
+            }
+        ]
+    },
+    {
+        "id":10,
+        "tag":"stomach-pain",
+        "name":"stomach-pain/discomfort",
+        "questions":[
+            {
+                "question":"Does the pain have a burning sensation?",
+                "tag":"burning-sensation"
+            },
+            {
+                "question":"Are you having heartburns",
+                "tag":"heartburns"
+            },
+            {
+                "question":"Do you feel bloated?",
+                "tag":"bloating"
+            },
+            {
+                "question":"Do you feel nauseous or irritable?",
+                "tag":"nausea"
+            },
+            {
+                "question":"Are you experiencing appetite loss?",
+                "tag":"loss-of-appetite"
+            },
+            {
+                "question":"Are you feeling fatigued?",
+                "tag":"fatigue"
+            },
+            {
+                "question":"Do you feel constipated?",
+                "tag":"constipation"
+            }
+        ]
+    },
+    {
+        "id":11,
+        "tag":"urinary-problems",
+        "name":"Urinary problems",
+        "questions":[
+            {
+                "question":"Are you experiencing a decrease in urination?",
+                "tag":"decreased-urination"
+            },
+            {
+                "question":"Is your urine dark in color",
+                "tag":"dark-urine"
+            },
+            {
+                "question":"Is your urine bloody",
+                "tag":"bloody-urine"
+            },
+            {
+                "question":"Are you feeling fatigued?",
+                "tag":"fatigue"
+            },
+            {
+                "question":"Are you experiencing extreme thirst?",
+                "tag":"dehydration"
+            },
+            {
+                "question":"Do you feel constipated?",
+                "tag":"constipation"
+            },
+            {
+                "question":"Is your vision blurry",
+                "tag":"blurry-vision"
+            },
+            {
+                "question":"Are you experiencing unintended weight-loss",
+                "tag":"weight-loss"
+            },
+            {
+                "question":"Do you feel fatigued or lethargic?",
+                "tag":"fatigue"
+            },
+            {
+                "question":"Do you feel nauseous or irritable?",
+                "tag":"nausea"
+            },
+            {
+                "question":"Do you feel feverish?",
+                "tag":"fever"
+            },
+            {
+                "question":"Do you have frequent urges to evacuate your bowels?",
+                "tag":"diarrhea"
+            },
+           {
+               "question":"Have there been dark dark patches appearing on your skin recently?",
+               "tag":"hyperpigmentation"
+           }
+        ]
+    },
+    {
+        "id":12,
+        "tag":"muscle-aches",
+        "name":"Muscle aches",
+        "questions":[
+            {
+                "question":"Do you feel feverish?",
+                "tag":"fever"
+            },
+            {
+                "question":"Are you experiencing shortness of breath?",
+                "tag":"shortness-of breath"
+            },
+            {
+                "question":"Are you coughing frequently?",
+                "tag":"cough"
+            },
+            {
+                "question":"Do you feel fatigued or lethargic?",
+                "tag":"fatigue"
+            },
+            {
+                "question":"Do you have a sore-throat?",
+                "tag":"sore-throat"
+            },
+            {
+                "question":"Do you feel any headaches?",
+                "tag":"headaches"
+            },
+            {
+                "question":"Are you feeling dizzy?",
+                "tag":"diziness"
+            },
+            {
+                "question":"Are you experiencing profused sweating?",
+                "tag":"excessive-sweating"
+            },{
+                "question":"Are you experiencing appetite loss?",
+                "tag":"loss-of-appetite"
+            }
+        ]
+    }
+]

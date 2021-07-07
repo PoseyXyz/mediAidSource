@@ -1,0 +1,438 @@
+
+.triage-btn{
+padding: 1rem 0 .4rem 0;
+ cursor: pointer;
+
+    border: none;
+    outline: none;
+    background: transparent;
+    
+
+    position: fixed;
+    bottom: 2%;
+    right: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size:1em;
+    i{
+        text-align: center;
+        font-size: 5rem;
+        color: red;
+    }
+    
+}
+
+.diagnosisDetailsPage{
+    background: #fff;
+    box-shadow: 0 0 6px #DADADA;
+      width: 60%;
+      padding: 2rem;
+      border-radius: 10px;
+
+
+
+.header{
+    margin: 1rem 0 2rem 0;
+    padding: 0 0 2rem 0;
+    border-bottom: 1px solid lighten($color: #000000, $amount: 70%);
+    .diagnosis-name{
+        font-size: 3rem;
+        letter-spacing:1px;
+        text-align: center;
+   
+        
+    }
+    .nav-buttons{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+        padding: 1rem;
+
+        button{
+            padding: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 1rem;
+            border: none;
+            outline: none;
+            background: #1BBF83;
+            cursor: pointer;
+            color: #fff;
+            border-radius: 5px;
+            margin: 0
+        }
+    }
+}
+
+.overview{
+    margin: 2rem 0;
+    padding: 0 0 2rem 0;
+    border-bottom: 1px solid lighten($color: #000000, $amount: 92%);
+    line-height: 1.4rem;
+ h1{
+    font-size: 2rem;
+    margin: 1rem 0;
+ }
+ p{
+     font-size: 1rem;
+     letter-spacing: .2px;
+     margin: 0;
+ }
+}
+%headlines{
+    margin: 2rem 0;
+    padding: 0 0 2rem 0;
+    border-bottom: 1px solid lighten($color: #000000, $amount: 92%);
+ h1{
+    font-size: 2rem;
+    margin: 1rem 0;
+ }
+ h2, h3{
+     font-weight: 400;
+     font-size: 1rem;
+ }
+ p{
+     font-size: 1rem;
+     letter-spacing: .2px;
+     margin: 0;
+     
+ }
+ li{
+    font-size: 1rem;
+    margin: 1rem;
+    &::first-letter{
+        text-transform: capitalize;
+    }
+        
+}
+}
+
+.causes{
+@extend %headlines;
+} .symptoms{
+    @extend %headlines;
+}
+.prevention{
+    @extend %headlines
+}
+}
+
+.overlay {
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0,0,0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+max-height: 100%;
+transition: .5s ease-in;
+
+ overflow: hidden;
+  }
+  .overlay-content{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+  }
+  
+  %overlay-content {
+      display: flex;
+      width: 80%;
+   .img-holder{
+       width: 20%;
+       background: red;
+       height: auto;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       font-size: 3.4rem;
+    color: #fff;
+   
+  
+   } 
+.content{
+    padding: 1rem;
+    width: 80%;
+}
+ 
+  }
+  
+ 
+  
+  
+  .overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 3rem;
+    background: none;
+    color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    
+  }
+  
+  .triage-div{
+      background: #fff;
+      color: #000;
+    
+      border-radius: 10px;
+      margin: 1rem;
+h2{
+    font-size: 1.2rem;
+}
+      h3{
+        font-weight: 400;
+    }
+      @extend %overlay-content;
+  
+      li{
+        font-size: 1.15rem;
+        margin: .5rem 0;
+        &::first-letter{
+            text-transform: capitalize;
+        }
+    }
+
+  }
+  .firstAid-div{
+    background: #fff;
+    color: #000;
+    h3{
+        font-weight: 400;
+    }
+    border-radius: 10px;
+    margin: 1rem;
+    @extend %overlay-content;
+    h2{
+        margin:0;
+        font-size: 1.1rem;
+    }
+    .headline{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        #btn-holder{
+            button{
+                cursor: pointer;
+            }
+            
+            display: flex;
+            gap: .8rem;
+            #cancel{
+                background: red;
+                margin-left: .3rem;
+            }
+        }
+
+        button{
+            padding: .6rem .8rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 1rem;
+            border: none;
+            outline: none;
+            background: #1BBF83;
+            color: #fff;
+            border-radius: 5px;
+            margin: 0;
+            i{
+                font-size: 1.3rem;
+                margin: 7px .5rem 0 0;
+            }
+        }
+    }
+
+    li{
+        font-size: 1.15rem;
+        margin: .5rem 0;
+        
+        line-height: 1.3rem;
+        &::first-letter{
+            text-transform: capitalize;
+        }
+    }
+  }
+
+  @media screen and (max-width:57rem){
+      
+.triage-btn{
+    padding: .3rem 1rem .1rem 0;
+        background: red;
+     width: 5rem;
+     height: 5rem;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: .2rem;
+     font-size: 1rem;
+     flex-direction: column;
+     border: none;
+     outline: none;
+     background: transparent;
+        i{
+            font-size: 3rem;
+            text-align: center;
+        }
+ 
+
+   
+    
+
+   
+ 
+    
+    }
+    .diagnosisDetailsPage{
+          width: 85%;
+          padding:1rem;
+    
+    .header{
+        margin:1rem 0;
+        padding: 0 0 1rem 0;
+        .diagnosis-name{
+            font-size: 2rem;
+            letter-spacing:0;   
+        }
+        .nav-buttons{
+            display: grid;
+            grid-template-columns: repeat(1, 1fr);
+            gap: 1rem;
+            padding: 1rem;
+    
+            button{
+                padding: 1rem;
+                font-size: 1rem;
+            }
+        }
+    }
+    .overview{
+    
+     h1{
+        font-size: 1.8rem;
+        margin: 1rem 0
+     }
+     p{
+         font-size: 1rem;
+         letter-spacing: 0
+     }
+    }
+    %headlines{
+     
+     h1{
+        font-size: 1.8rem;
+     }
+     p{
+         font-size: 1rem;
+         letter-spacing: 0;
+         
+     }
+     li{
+        font-size: .85rem;
+        margin: 1rem 0;
+    }
+    }
+}
+
+.overlay {
+    height: auto;
+  
+    position: fixed;
+max-height: calc(100vh-60px);
+    bottom: 0;
+
+    overflow: auto;
+    scrollbar-width: 0 !important;
+     .closebtn {
+        position: absolute;
+        top: 1rem;
+        right: .3rem;
+        font-size: 3rem;
+      }
+      
+
+  }
+  .overlay-content{
+      margin-top: auto;
+  }
+  %overlay-content {
+    display: flex;
+    width: 92%;
+    flex-direction: column;
+ .img-holder{
+     width: 100%;
+ 
+
+
+ } 
+.content{
+  padding: 1rem;
+  width: 100%;
+}
+  }
+
+
+  .triage-div{
+    margin: 1rem;
+    h2{
+        font-size: 1.2rem;
+        margin: .2rem 0;
+    }
+    h3{
+        font-size: 1rem;
+    }
+    li{
+        font-size: .83rem;
+        margin: .5rem 1rem .5rem 0;
+  }
+}
+.firstAid-div{
+
+  margin: 1rem;
+
+  h2{
+    font-size: 1.2rem;
+      margin:.2rem 0;
+  }
+  h3{
+    font-size: 1rem;
+}
+  .headline{
+      display: flex;
+      flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+      button{
+          padding: .4rem .6rem;
+          font-size: .8rem;
+          margin-top: .4rem;
+          i{
+              font-size: 1rem;
+              margin: 4px .4rem 0 0;
+          }
+      }
+  }
+  ul{
+    li{
+        font-size: .83rem;
+        margin: .5rem 1rem .5rem 0;
+    
+  
+    }
+  }
+
+
+}
+  
+  
+  }

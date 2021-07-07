@@ -1,0 +1,2785 @@
+[
+    {
+        "id":1,
+        "name": "Ingrown Toenails",
+        "tags":["swollen-toe", "bleeding-toe", "toe-redness", "pus", "limited-movement", "toe-pain"],
+        "overview": "Ingrown toenails are a common condition in which the corner or side of a toenail grows into the soft flesh. The result is pain, redness, swelling and, sometimes, an infection. Ingrown toenails usually affect your big toe. Often you can take care of ingrown toenails on your own. If the pain is severe or spreading, your doctor can take steps to relieve your discomfort and help you avoid complications of ingrown toenails. If you have diabetes or another condition that causes poor blood flow to your feet, you're at greater risk of complications of ingrown toenails.",
+          "causes":[
+              {
+                  "headline":"",
+                  "list":[
+                      "Cutting toenails incorrectly (Cut straight across, since angling the sides of the nail can encourage the nail to grow into the skin",
+                      "Irregular, curved toenails",
+                      "Footwear that places a lot of pressure on the big toes, such as socks and stockings that are too tight or shoes that are too tight, narrow, or flat for your feet",
+                     "Toenail injury, including stubbing your toe, dropping something heavy on your foot, or kicking a ball repeatedly",
+                     "Poor posture",
+                     "Improper foot hygiene, such as not keeping your feet clean or dry",
+                     "Genetic predisposition"
+                  ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Ingrown toenails can be painful, and they usually worsen in stages. Eary stage symptoms include:",
+                "list":[
+                   "Skin next to the nail becoming painful, tender, swollen, or hard",
+                    "Pain when pressure is placed on the toe",
+                    "Fluid building up around the toe",
+                    "Redness around your toenail"
+                ]
+            },
+            {
+                "headline":"If your toe becomes infected, symptoms may include:",
+                "list":[
+                    "red, swollen skin",
+                    "pain",
+                    "bleeding",
+                    "oozing pus",
+                    "overgrowth of skin around the toe"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"",
+                "list":[
+                    "Trim your toenails straight across and make sure that the edges do not curve in.",
+                    "Avoid cutting toenails too short",
+                    "Wear proper fitting shoes, socks, and tights.",
+                    "Wear steel-toe boots if you work in hazardous conditions.",
+                     "If your toenails are abnormally curved or thick, surgery may be necessary to prevent ingrown nails."
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"To treat your ingrown toenail at home, try:",
+                "list":[
+                    	"soaking your feet in warm water for about 15 to 20 minutes three to four times per day (At other times, your shoes and feet should be kept dry.)",
+                    	"pushing skin away from the toenail edge with a cotton ball soaked in olive oil",
+                        "using over-the-counter medicines, like acetaminophen (Tylenol), for the pain",
+                    	"applying a topical antibiotic, such as polymyxin and neomycin (both present in Neosporin) or a steroid cream, to prevent infection"
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Try home treatments for a few days to a few weeks. If the pain worsens or you find it difficult to walk or perform other activities because of the nail, see your doctor. If the toenail does not respond to home treatments or an infection occurs, you may need surgery. In cases of infection, stop all home treatments and see your doctor.",
+                "list":[
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":2,
+        "name": "Bronchitis",
+        "tags":["sore-throat", "fatigue", "phlegm", "runny-nose", "fatigue", "muscle-aches", "fever", "chest-discomfort", "wheezes", "shortness-of-breath", "cough", "headaches"],
+        "overview": "Bronchitis is an inflammation of the lining of your bronchial tubes, which carry air to and from your lungs. People who have bronchitis often cough up thickened mucus, which can be discolored. Bronchitis may be either acute or chronic. Often developing from a cold or other respiratory infection, acute bronchitis is very common. Chronic bronchitis, a more serious condition, is a constant irritation or inflammation of the lining of the bronchial tubes, often due to smoking. Acute bronchitis, also called a chest cold, usually improves within a week to 10 days without lasting effects, although the cough may linger for weeks. However, if you have repeated bouts of bronchitis, you may have chronic bronchitis, which requires medical attention. Chronic bronchitis is one of the conditions included in chronic obstructive pulmonary disease (COPD).",
+          "causes":[
+              {
+                  "headline":"",
+                  "list":[
+                      "Viruses cause 85 to 95 percentTrusted Source of acute bronchitis cases in adults. The same viruses that cause the common cold or flu can cause acute bronchitis.",
+                      "In rare cases, bacterial bronchitis can develop after a viral infection of bronchitis. This can result from infections by bacteria such as Mycoplasma pneumoniae, Chlamydia pneumoniae, and Bordetella pertussis (which causes whooping cough).",
+                      "Breathing in irritants such as smoke, smog, or chemical fumes can cause inflammation in your trachea and bronchial tubes. This can lead to acute bronchitis.",
+                      "People with chronic bronchitis or asthma sometimes develop acute bronchitis. In these cases, acute bronchitis isn’t likely to be contagious because it’s not caused by an infection."
+                  ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"",
+                "list":[
+                    "runny nose",
+                    "sore throat",
+                    "tiredness",
+                    "sneezing",
+                    "wheezing",
+                    "feeling cold easily",
+                    "back and muscle aches",
+                    "fever of 100°F to 100.4°F (37.7°C to 38°C)",
+                    "cough",
+                    "Production of mucus (sputum), which can be clear, white, yellowish-gray or green in color — rarely, it may be streaked with blood",
+                    "fatigue",
+                    "shortness of breath",
+                    "slight fever and chills",
+                    "chest discomfort"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"",
+                "list":[
+                    "Make sure you’re getting enough sleep.",
+                    "Avoid touching your mouth, nose, or eyes if you’re around people with bronchitis.",
+                    "Avoid sharing glasses or utensils.",
+                    "Wash your hands regularly and thoroughly, particularly during cold season.",
+                    "Stop smoking or avoid secondhand smoke.",
+                    "Eat a balanced diet to keep your body as healthy as possible.",
+                    "Get vaccines for the flu, pneumonia, and whooping cough.",
+                    "Limit exposure to air irritants such as dust, chemical fumes, and other pollutants. Wear a mask, if necessary."
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    "Take OTC nonsteroidal anti-inflammatory drugs, such as ibuprofen (Advil) and naproxen (Aleve, Naprosyn), which may soothe your sore throat.",
+                    "Get a humidifier to create moisture in the air. This can help loosen mucus in your nasal passages and chest, making it easier to breathe.",
+                    "Drink plenty of liquids, such as water or tea, to thin out mucus. This makes it easier to cough it up or blow it out through your nose.",
+                    "Add ginger to tea or hot water. Ginger is a natural anti-inflammatory that can relieve irritated and inflamed bronchial tubes.",
+                    "Consume dark honey to soothe your cough. Honey also soothes your throat and has antiviral and antibacterial properties."
+                ]
+            }
+        ],
+        "triage":[
+           {
+            "message":"Call your doctor if you have any of the following symptoms:",
+            "list":[
+                "unexplained weight loss",
+                "a deep, barking cough",
+                "trouble breathing",
+                "chest pain",
+                "a fever of 100.4°F (38°C) or higher ",
+                "a cough that lasts longer than 10 days"
+            ]
+           }
+        ]           
+    },
+    {
+        "id":3,
+        "name": "Dehydration",
+        "tags":["diziness", "fatigue", "dehydration", "decreased-urination", "dry-skin", "headaches", "constipation", "cough", "sore-throat", "urinary-problems", "dark-urine"],
+        "overview": "Dehydration occurs when you use or lose more fluid than you take in, and your body doesn't have enough water and other fluids to carry out its normal functions. If you don't replace lost fluids, you will get dehydrated. Anyone may become dehydrated, but the condition is especially dangerous for young children and older adults. The most common cause of dehydration in young children is severe diarrhea and vomiting. Older adults naturally have a lower volume of water in their bodies, and may have conditions or take medications that increase the risk of dehydration. This means that even minor illnesses, such as infections affecting the lungs or bladder, can result in dehydration in older adults. Dehydration also can occur in any age group if you don't drink enough water during hot weather — especially if you are exercising vigorously. You can usually reverse mild to moderate dehydration by drinking more fluids, but severe dehydration needs immediate medical treatment. ",
+          "causes":[
+              {
+                  "headline":"Sometimes dehydration occurs for simple reasons: You don't drink enough because you're sick or busy, or because you lack access to safe drinking water when you're traveling, hiking or camping. Other dehydration causes include",
+                  "list":[
+                      "Diarrhea",
+                      "Vomitting",
+                      "Excessive sweating",
+                      "Increased urination"   
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Symptoms of mild to moderate dehydration include",
+                "list":[
+                   "Extreme thirst",
+                   "Decrease urination",
+                   "Dark colored urine",
+                   "Fatigue",
+                   "Diziness",
+                   "Confusion",
+                   "Dry skin",
+                   "Constipation",
+                   "Headache"
+                ]
+            },
+            {
+                "headline":"In addition to the symptoms of mild dehydration, severe dehydration is likely to cause the following",
+                "list":[
+                    "Excessive thirst",
+                    "Lack of sweat production",
+                    "Low blood pressure",
+                    "Rapid heart rate",
+                    "Rapid breathing",
+                    "Sunken eyes"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"To prevent dehydration, drink plenty of fluids and eat foods high in water such as fruits and vegetables. Letting thirst be your guide is an adequate daily guideline for most healthy people. People may need to take in more fluids if they are experiencing conditions such as:", 
+                "list":[
+                    "Vomitting or diarrhea",
+                    "Strenous exercise",
+                    "Hot or cold weather",
+                    "Illness"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Rehydration by drinking may not be possible for all people, like those who have severe diarrhea or vomiting. In this case, fluids can be given intravenously. To do this, a small IV tube is inserted in a vein in the arm or hand. It provides a solution that’s often a mix of water and electrolytes. For those able to drink, drinking water along with an electrolyte-containing rehydration drink, such as a low-sugar sports or electrolyte drink, may be recommended. Children with dehydration are often directed to drink Pedialyte.",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Call your doctor if you:",
+                "list":[
+                    "Has had diarrhea for 24 hours or more",
+                    "Is irritable or disoriented and much sleepier or less active than usual",
+                    "Can't keep down fluids",
+                    "Has bloody or black stool"
+                ]
+            }
+        ]                       
+    },
+    {
+        "id":4,
+        "name": "Addison's disease",
+        "tags":["fatigue", "weight-loss", "hyperpigmentation", "fainting", "salt-cravings", "nausea", "abdominal-pain", "muscle-aches", "hair-loss", "fever", "diarrhea", "bloody-stools", "loss-of-appetite", "dehydration"],
+        "overview": "Addison's disease, also called adrenal insufficiency, is an uncommon disorder that occurs when your body doesn't produce enough of certain hormones. In Addison's disease, your adrenal glands, located just above your kidneys, produce too little cortisol and, often, too little aldosterone. Addison's disease occurs in all age groups and both sexes, and can be life-threatening. Treatment involves taking hormones to replace those that are missing. ",
+          "causes":[
+              {
+                  "headline":"When the cortex is damaged and doesn't produce enough adrenocortical hormones, the condition is called primary adrenal insufficiency. This is most commonly the result of the body attacking itself (autoimmune disease). For unknown reasons, your immune system views the adrenal cortex as foreign, something to attack and destroy. People with Addison's disease are more likely than others to have another autoimmune disease as well. Other causes of adrenal gland failure may include tuberculosis, other infections of the adrenal glands, spread or cancer or bleeding into the adrenal glands",
+                  "list":[
+                      ]
+              },
+              {
+                  "headline":"The pituitary gland makes a hormone called adrenocorticotropic hormone (ACTH). ACTH in turn stimulates the adrenal cortex to produce its hormones. Benign pituitary tumors, inflammation and prior pituitary surgery are common causes of not producing enough pituitary hormone. Too little ACTH can lead to too little of the glucocorticoids and androgens normally produced by your adrenal glands, even though your adrenal glands themselves aren't damaged. This is called secondary adrenal insufficiency. Mineralocorticoid production is not affected by too little ACTH.. Most symptoms of secondary adrenal insufficiency are similar to those of primary adrenal insufficiency. However, people with secondary adrenal insufficiency don't have hyperpigmentation and are less likely to have severe dehydration or low blood pressure. They're more likely to have low blood sugar. A temporary cause of secondary adrenal insufficiency occurs when people who take corticosteroids (for example, prednisone) to treat chronic conditions, such as asthma or arthritis, stop taking the corticosteroids all at once rather than tapering off. ",
+                  "list":[]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Addison's disease symptoms usually develop slowly, often over several months. Often, the disease progresses so slowly that symptoms are ignored until a stress, such as illness or injury, occurs and makes symptoms worse. Signs and symptoms may include:",
+                "list":[
+                   "Extreme fatigue",
+                   "Weight loss and decreased appetite",
+                   "Darkening of your skin (hyperpigmentation)",
+                   "Low blood pressure, even fainting",
+                   "Salt craving",
+                   "Low blood sugar",
+                   "Nausea, diarrhea or vomitting",
+                   "Abdominal pain",
+                   "Muscle or joint pains",
+                   "Irritability",
+                   "Depression or other behavioural symptoms",
+                   "Body hair loss or sexual dysfunction in women"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Aaddison's disease can't be prevented, but there are steps you can take to avoid an addisonian crisis:",
+                "list":[
+                    "Talk to your doctor if you always feel tired, weak, or are losing weight. Ask about having an adrenal shortage.",
+                    "If you have been diagnosed with Addison's disease, ask your doctor about what to do when you're sick. You may need to learn how to increase your dose of corticosteroids.",
+                    "If you become very sick, especially if you are vomiting and you can't take your medication, go to the emergency room."
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Keep an emergency kit that contains your medications on hand at all times. Ask your doctor to write a prescription for an injectable corticosteroid for emergencies. You may also want to keep a medical alert card in your wallet and a bracelet on your wrist to let others know about your condition.",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"See your doctor if you have common signs and symptoms of Addison's disease, such as:",
+                "list":[
+                    "Darkening areas of skin (hyperpigmentation)",
+                    "Severe fatigue",
+                    "Unintentional weight loss",
+                    "Gastrointestinal problems such as nausea, vomiting and abdominal pain",
+                    "Lightheadedness or fainting",
+                    "Salt cravings",
+                    "Muscle or joint pains"
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":5,
+        "name": "Peptic ulcers",
+        "tags":["abdominal-pain", "stomach-pain", "burning-sensation", "heartburns", "bloating", "loss-of-appetite", "nausea", "fatigue", "constipation"],
+        "overview": "Peptic ulcers are open sores that develop on the inside lining of your stomach and the upper portion of your small intestine. The most common symptom of a peptic ulcer is stomach pain. Peptic ulcers include: Gastric ulcers that occur on the inside of the stomach. Duodenal ulcers that occur on the inside of the upper portion of your small intestine (duodenum). The most common causes of peptic ulcers are infection with the bacterium Helicobacter pylori (H. pylori) and long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve). Stress and spicy foods do not cause peptic ulcers. However, they can make your symptoms worse.",
+          "causes":[
+              {
+                  "headline":"Peptic ulcers occur when acid in the digestive tract eats away at the inner surface of the stomach or small intestine. The acid can create a painful open sore that may bleed. Your digestive tract is coated with a mucous layer that normally protects against acid. But if the amount of acid is increased or the amount of mucus is decreased, you could develop an ulcer. Common causes include:",
+                  "list":[
+                      "A bacterium such as Helicobacter pylori bacteria which commonly live in the mucous layer that covers and protects tissues that line the stomach and small intestine. Often, the H. pylori bacterium causes no problems, but it can cause inflammation of the stomach's inner layer, producing an ulcer. It's not clear how H. pylori infection spreads. It may be transmitted from person to person by close contact, such as kissing. People may also contract H. pylori through food and water.",
+                        "Taking aspirin, as well as certain over-the-counter and prescription pain medications called nonsteroidal anti-inflammatory drugs (NSAIDs) , can irritate or inflame the lining of your stomach and small intestine. These medications include ibuprofen (Advil, Motrin IB, others), naproxen sodium (Aleve, Anaprox DS, others), ketoprofen and others",
+                        "Taking certain other medications along with NSAIDs, such as steroids, anticoagulants, low-dose aspirin, selective serotonin reuptake inhibitors (SSRIs), alendronate (Fosamax) and risedronate (Actonel), can greatly increase the chance of developing ulcers."  
+                    ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Common signs of peptic ulcers include:",
+                "list":[
+                   "Burning stomach pain",
+                   "Feeling of fullness, bloating or belching",
+                   "Intolerance to fatty foods",
+                   "Heartburn",
+                   "Nausea"
+                ]
+            },
+            {
+                "headline":"Less often, ulcers may cause severe signs or symptoms such as:",
+                "list":[
+                    "Vomitting or vomitting blood - which may appear red or black",
+                    "Dark blood in stools, or stools that are black or tarry",
+                    "Trouble breathing",
+                    "Feeling faint",
+                    "Nausea pr vomitting",
+                    "Unexplained weight loss",
+                    "Appetite changes"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"You may reduce your risk of peptic ulcer if you follow the same strategies recommended as home remedies to treat ulcers. It also may be helpful to:",
+                "list":[
+                    "Protect yourself from infections",
+                    "Use caution with pain relievers",
+                    "Avoid alcohol intake"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"See your doctor if you have the severe signs or symptoms listed above. Also see your doctor if over-the-counter antacids and acid blockers relieve your pain but the pain returns.",
+                "list":[]
+            }
+        ]                        
+    },
+    {
+        "id":6,
+        "name": "Chilblains",
+        "tags":["burning-sensation", "itchy-skin", "blisters"],
+        "overview": "Chilblains (CHILL-blayns) are the painful inflammation of small blood vessels in your skin that occur in response to repeated exposure to cold but not freezing air. Also known as pernio, chilblains can cause itching, red patches, swelling and blistering on your hands and feet. Chilblains usually clear up within one to three weeks, especially if the weather gets warmer. You may have recurrences seasonally for years. Treatment involves protecting yourself from the cold and using lotions to ease the symptoms. Chilblains don't usually result in permanent injury. But the condition can lead to infection, which may cause severe damage if left untreated. The best approach to chilblains is to avoid developing them by limiting your exposure to cold, dressing warmly and covering exposed skin.",
+          "causes":[
+              {
+                  "headline":"Cold weather can cause small blood vessels near the surface of your skin to tighten. Once you warm up, these small vessels may expand too quickly. This may cause blood to leak into nearby tissue, resulting in swelling. The swelling then irritates nerves in the affected area, causing pain. Doctors aren’t sure why this happens, but it may be related to an unusual reaction to cold exposure and rewarming.",
+                  "list":[
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Chilblains are patches of skin that appear swollen and red or occasionally blue in color. Due to the swelling, they may look shiny. Other symptoms include",
+                "list":[
+                   "Burning sensation",
+                   "Blisters",
+                   "Itchiness"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"To prevent chilblains:",
+                "list":[
+                    "Avoid or limit your exposure to cold",
+                    "Dress in layers of loose clothing and wear mittens and warm, water-resistant footwear",
+                    "Cover all exposed skin as completely as possible when going outside in cold weather",
+                    "Keep your hands, feet and face dry and warm",
+                    "Keep your home and workplace comfortably warm",
+                    "Don't smoke",
+                    "If your skin is exposed to cold, it's helpful to rewarm it gradually because sudden rewarming of cold skin may worsen chilblains"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"While it’s usually best to let chilblains run their course, there are a few things you can do at home to ease your symptoms. As soon as you notice symptoms, try to slowly warm up the affected area by putting it under a blanket. Avoid applying direct heat because warming up the area too rapidly can make your symptoms worse. In addition, avoid massaging or rubbing the area. While this might seem like a good way to slowly warm the area, it can increase irritation and inflammation. As your chilblains heal, apply a gentle, unscented lotion to the area to keep your skin moisturized. This is especially important if your chilblains have blisters. Keeping your skin clean and moisturized will reduce your risk of developing an infection.",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Chilblains will usually get better on their own. Seek medical care to check for complications if the pain is unusually severe, if you suspect an infection, or if your symptoms aren't improving after one to two weeks. If the symptoms extend into the warm season, see a doctor to rule out other conditions. If you have diabetes or poor circulation, healing may be impaired. Be cautious and seek care.",
+                "list":[]
+            }
+        ]                   
+    },
+    {
+        "id":7,
+        "name": "Hyperhydrosis",
+        "tags":["dehydration", "excessive-sweating"],
+        "overview": "Hyperhidrosis disorder is a condition that results in excessive sweating. This sweating can occur in unusual situations, such as in cooler weather, or without any trigger at all. It can also be caused by other medical conditions, such as menopause or hyperthyroidism. Hyperhidrosis can be uncomfortable. However, several treatment options can provide some reliief.",
+          "causes":[
+              {
+                  "headline":"",
+                  "list":[
+                      "heart disease",
+                      "cancer",
+                      "adrenal gland dsorders",
+                      "stroke",
+                      "hyperthyroidism",
+                      "menopause",
+                      "spinal cord injuries",
+                      "lung disease",
+                      "parkisonson's disease",
+                      "infectious diseases, such as tuberculosis or HIV",
+                      "Medications could also triger hyperhydrosis"
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Symptoms of excessive sweating include",
+                "list":[
+                   "excessive sweating that’s occurred for at least six months without an apparent reason",
+                   "sweat that occurs on both sides of your body in roughly the same amount",
+                   "incidents of excessive sweating at least once a week",
+                   "sweating that interferes with your daily activities (such as work or relationships)",
+                   "excessive sweating that began when you were younger than 25 years old"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"You can try to reduce excessive sweating by:",
+                "list":[
+                    "using over-the-counter antiperspirants on the affected area",
+                    "bathing daily to get rid of bacteria",
+                    "wearing shoes and socks made from natural materials",
+                    "letting your feet breathe",
+                    "changing your socks frequently"
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Excessive sweating can be a symptom of other, very serious conditions. Call your doctor right away if you experience:",
+                "list":[
+                    "Sweating and weight loss",
+                    "Sweating that mainly occurs while you sleep",
+                    "Sweating that occurs with a fever, chest pain, shortness of breath and rapid hearbeat",
+                    "Sweating and chest pain, or a feeling of pressure in the chest",
+                    "Sweating that's prolonged and unexplained"
+                ]
+            }
+        ]                        
+    },
+    {
+        "id":8,
+        "name": "Influenza",
+        "tags":["fever", "muscle-aches", "wheezes", "cough", "fatigue", "eye-pain", "excessive-sweating", "shortness-of-breath", "runny-nose", "sore-throat", "headaches", "runny-nose", "diziness", "loss-of-appetite"],
+        "overview": "Influenza is a viral infection that attacks your respiratory system — your nose, throat and lungs. Influenza is commonly called the flu, but it's not the same as stomach 'flu' viruses that cause diarrhea and vomiting. For most people, the flu resolves on its own. But sometimes, influenza and its complications can be deadly. ",
+          "causes":[
+              {
+                  "headline":"Influenza viruses travel through the air in droplets when someone with the infection coughs, sneezes or talks. You can inhale the droplets directly, or you can pick up the germs from an object — such as a telephone or computer keyboard — and then transfer them to your eyes, nose or mouth. People with the virus are likely contagious from about a day before symptoms appear until about five days after they start. Children and people with weakened immune systems may be contagious for a slightly longer time. Influenza viruses are constantly changing, with new strains appearing regularly. If you've had influenza in the past, your body has already made antibodies to fight that specific strain of the virus. If future influenza viruses are similar to those you've encountered before, either by having the disease or by getting vaccinated, those antibodies may prevent infection or lessen its severity. But antibody levels may decline over time. Also, antibodies against influenza viruses you've encountered in the past may not protect you from new influenza",
+                  "list":[
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Common signs and symptoms of the flu include:",
+                "list":[
+                   "Fever",
+                   "Aching muscles",
+                   "Chills and sweats",
+                   "sneezing",
+                   "Headaches",
+                   "Dry, persistent cough",
+                   "shortness of breath",
+                   "Tiredness and weakness",
+                   "Runny or stuffy nose",
+                   "Fatigue",
+                   "sore throat",
+                   "Eye pain"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"The best way to prevent the flu is through annual vaccinations. Each flu shot protects against three to fourTrusted Source different influenza viruses within that year’s flu season. Other ways to prevent spreading this disease include:",
+                "list":[
+                    "Washing your hands regularly",
+                    "Avoiding large crowds, specifically during a flue outbreak",
+                    "Covering your mouth and nose when you cough or sneeze",
+                    "Staying home if you develop a fever and for at least 24 hours after it goes away"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"In some cases, influenza A symptoms can clear on their own with ample rest and fluid intake. In other cases, your doctor may prescribe antiviral medication to fight the infection.",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Most people who get the flu can treat themselves at home and often don't need to see a doctor but if you have emergency signs and symptoms of the flu, get medical care right away. For adults, emergency signs and symptoms can include: ",
+                "list":[
+                    "Difficulty breathing or shortness of breath",
+                    "Chest pain",
+                    "Ongoing diziness",
+                    "Seizures",
+                    "Worsening of existing medical conditions",
+                    "Severe weakness or muscle pain"
+                ]
+            }
+        ]                    
+    },
+    {
+        "id":9,
+        "name": "Typhoid",
+        "tags":["headaches", "bloating", "bloody-stools", "stomach-pain", "dehydration", "cough", "fever", "fatigue", "abdominal-pain", "loss-of-appetite", "rash", "constipation", "diarrhea", "runny-nose", "nausea", "muscle-aches"],
+        "overview": "Typhoid fever is a serious bacterial infection that easily spreads through contaminated water and food. Along with high fever, it can cause abdominal pains headache, and loss of appetite. With treatment, most people make a full recovery. But untreated typhoid can lead to life-threatening complications.",
+          "causes":[
+              {
+                  "headline":"Typhoid fever is caused by dangerous bacteria called Salmonella typhi. Salmonella typhi is related to the bacteria that cause salmonellosis, another serious intestinal infection, but they aren't the same",
+                  "list":[
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"It can take a week or two after infection for symptoms to appear. Some of these symptoms are:",
+                "list":[
+                   "High fever",
+                   "Weakness",
+                   "Stomach pain",
+                   "Headache",
+                   "Poor appetite",
+                   "Rash",
+                   "Fatigue",
+                   "Confusion",
+                   "Constipation",
+                   "Diarrhea"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Be careful about what you drink",
+                "list":[
+                    "Do not drink from the tap or a well",
+                    "Avoid ice cubes, popsicles, or fountain drinks uncless you're certain they're made from bottles or boiled water",
+                    "Buy bottled drinks whenever possible (ensure bottles are tightly sealed)",
+                    "Non-bottled water should be boiled for one minute before drinking"
+                      ]
+            },
+            {
+                "headline":"Watch what you eat",
+                "list":[
+                    	"don’t eat raw produce unless you can peel it yourself after washing your hands",
+                    	"never eat food from street vendors",
+                	"don’t eat raw or rare meat or fish, foods should be thoroughly cooked and still hot when served",
+                	"eat only pasteurized dairy products and hard-cooked eggs",
+                    	"avoid salads and condiments made from fresh ingredients",
+                    	"don’t eat wild game"
+                ]
+            },
+            {
+                "headline":"Practice good hygiene",
+                "list":[
+                    "wash your hands often, especially after using the bathroom and before touching food (use lots of soap and water if available, if not, use hand sanitizer containing at least 60 percent alcohol)",
+	"don’t touch your face unless you’ve just washed your hands",
+	"avoid direct contact with people who are sick",
+"if you’re sick, avoid other people, wash your hands often, and don’t prepare or serve food",
+"Safe drinking water, improved sanitation and adequate medical care can help prevent and control typhoid fever. Unfortunately, in many developing nations, these may be difficult to achieve. For this reason, some experts believe that vaccines are the best way to control typhoid fever.",
+"A vaccine is recommended if you live in or are traveling to areas where the risk of getting typhoid fever is high."
+
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Contact your doctor imeediately.",
+                "list":[]
+            }
+        ]                 
+    },
+    {
+        "id":10,
+        "name": "Bunion",
+        "tags":["toe-redness", "swollen-toe", "limited-movement", "toe-pain"],
+        "overview": "A bunion looks like a bump on the side of the big toe. This bump is actually the result of an abnormality of the foot bones that causes your big toe to lean toward your second toe instead of being straight. This angle produces the bump you see on your toe. In some cases, the bump is painless. Over time, however, a bunion will cause the toes to crowd together. This can cause pain, and possibly a permanent deformity.",
+          "causes":[
+              {
+                  "headline":"There are many theories about how bunions develop, but the exact cause is unknown. Factors likely include:",
+                  "list":[
+                      "Inherited foot type",
+                      "Fot stress or injuries",
+                      "Deformities present at birth"
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"The signs and symptoms of a bunion include:",
+                "list":[
+                   "A bulging bumb on the outside of the base of your big toe",
+                   	"Swelling, redness or soreness around your big toe joint",
+"Corns or calluses — these often develop where the first and second toes rub against each other",
+	"Ongoing pain or pain that comes and goes",
+"Limited movement of your big toe"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Wearing shoes that fit properly is an effective way to stop bunions from forming. A properly fitting shoe should have plenty of room around your toes and should conform to the shape of your foot.",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Nonsurgical treatments that may relieve the pain and pressure of a bunion include:",
+                "list":[
+                    "Icing your bunion after you've been on your feet too long or if it becomes inflamed can help relieve soreness and swelling. If you have reduced feeling or circulation problems with your feet, check with your doctor first before applying ice",
+                    "Padded shoe inserts can help distribute pressure evenly when you move your feet, reducing your symptoms and preventing your bunion from getting worse. Over-the-counter supports can provide relief for some people; others require prescription orthotic devices.",
+                    "Acetaminophen (Tylenol, others), ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve) can help you control the pain of a bunion. Cortisone injections also might help.",
+                    "Over-the-counter, nonmedicated bunion pads or cushions may be helpful. They can act as a buffer between your foot and your shoe and ease your pain.",
+                    "Wear roomy, comfortable shoes that provide plenty of space for your toes."
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Although bunions often require no medical treatment, see your doctor or a doctor who specializes in treating foot disorders (podiatrist or orthopedic foot specialist) if you have:",
+                "list":[
+                    "Ongoing big toe or foot pain",
+                    "A visible bump on your big toe joint",
+                    "Decreased movement of your big toe or foot",
+                    "Difficulty finding shoes that fit properly because of a bunion"
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":11,
+        "name": "Angina",
+        "tags":["chest-discomfort", "cough", "diziness", "fatigue", "nausea", "shortness-of-breath", "excessive-sweating", "headaches", "muscle-aches", "abdominal-pain", "vomitting"],
+        "overview": "Angina is a type of chest pain caused by reduced blood flow to the heart. Angina (an-JIE-nuh or AN-juh-nuh) is a symptom of coronary artery disease. Angina, also called angina pectoris, is often described as squeezing, pressure, heaviness, tightness or pain in your chest. Some people with angina symptoms say angina feels like a vise squeezing their chest or a heavy weight lying on their chest. Angina may be a new pain that needs to be checked by a doctor, or recurring pain that goes away with treatment. Although angina is relatively common, it can still be hard to distinguish from other types of chest pain, such as the discomfort of indigestion. If you have unexplained chest pain, seek medical attention right away.",
+          "causes":[
+              {
+                  "headline":"Stable angina",
+                  "list":[
+                      "Stable angina is usually triggered by physical activity. When you climb stairs, exercise or walk, your heart demands more blood, but narrowed arteries slow down blood flow. Besides physical activity, other factors such as emotional stress, cold temperatures, heavy meals and smoking also can narrow arteries and trigger angina."
+                      ]
+              },
+              {
+                  "headline":"Unstable angina",
+                  "list":[
+                      "If fatty deposits (plaques) in a blood vessel rupture or a blood clot forms, it can quickly block or reduce flow through a narrowed artery. This can suddenly and severely decrease blood flow to your heart muscle. Unstable angina can also be caused by blood clots that block or partially block your heart's blood vessels."
+                  ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Angina symptoms include",
+                "list":[
+                   "Chest pain",
+                   "chest discomfort",
+                   "Diziness",
+                   "Fatigue",
+                   "Nausea",
+                   "shortness of breath",
+                   "Profuse sweating",
+                   "Anxiety"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"You can help prevent angina by making the same lifestyle changes that might improve your symptoms if you already have angina. These include:",
+                "list":[
+              	"Quitting smoking.",
+                "Monitoring and controlling other health conditions, such as high blood pressure, high cholesterol and diabetes.",
+            	"Eating a healthy diet and maintaining a healthy weight.",
+    "Increasing your physical activity after you get your doctor's OK. Aim for 150 minutes of moderate activity each week. Plus, it's recommended that you get 10 minutes of strength training twice a week and to stretch three times a week for five to 10 minutes each time.",
+    	"Reducing your stress level.",
+    "Limiting alcohol consumption to two drinks or fewer a day for men, and one drink a day or less for women.",
+    	"Getting an annual flu shot to avoid heart complications from the virus."
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"If your chest pain lasts longer than a few minutes and doesn't go away when you rest or take your angina medications, it may be a sign you're having a heart attack. Call 911 or emergency medical help. Arrange for transportation. Only drive yourself to the hospital as a last resort. If chest discomfort is a new symptom for you, it's important to see your doctor to find out what's causing your chest pain and to get proper treatment. If you've been diagnosed with stable angina and it gets worse or changes, seek medical attention immediately.",
+                "list":[
+                    
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":12,
+        "name": "Arthritis",
+        "tags":[],
+        "overview": "Arthritis is an inflammation of the joints. It can affect one joint or multiple joints. There are more than 100 different types of arthritis, with different causes and treatment methods. Two of the most common types are osteoarthritis (OA) and rheumatoid arthritis (RA). The symptoms of arthritis usually develop over time, but they may also appear suddenly. Arthritis is most commonly seen in adults over the age of 65, but it can also develop in children, teens, and younger adults. Arthritis is more common in women than men and in people who are overweight.",
+          "causes":[
+              {
+                  "headline":"",
+                  "list":[
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"The most common signs and symptoms of arthritis involve the joints. Depending on the type of arthritis you have, your signs and symptoms may include:",
+                "list":[
+                   "Pain",
+                   "Stiffness",
+                   "Swelling",
+                   "Redness",
+                   "Decreased range of motion"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"See a doctor",
+                "list":[
+                    
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":13,
+        "name": "Asthma",
+        "tags":["shortness-of-breath", "chest-discomfort", "wheezes", "cough", "fatigue"],
+        "overview": "Asthma is a condition in which your airways narrow and swell and may produce extra mucus. This can make breathing difficult and trigger coughing, a whistling sound (wheezing) when you breathe out and shortness of breath. For some people, asthma is a minor nuisance. For others, it can be a major problem that interferes with daily activities and may lead to a life-threatening asthma attack.Asthma can't be cured, but its symptoms can be controlled. Because asthma often changes over time, it's important that you work with your doctor to track your signs and symptoms and adjust your treatment as needed.",
+          "causes":[
+              {
+                  "headline":"Exposure to various irritants and substances that trigger allergies (allergens) can trigger signs and symptoms of asthma. Asthma triggers are different from person to person and can include:",
+                  "list":[
+                    	"Airborne allergens, such as pollen, dust mites, mold spores, pet dander or particles of cockroach waste",
+                    	"Respiratory infections, such as the common cold",
+                        "Physical activity",
+                    	"Cold air",
+                    	"Air pollutants and irritants, such as smoke",
+                    "Certain medications, including beta blockers, aspirin, and nonsteroidal anti-inflammatory drugs, such as ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve)",
+                    " Strong emotions and stress",
+                    	"Sulfites and preservatives added to some types of foods and beverages, including shrimp, dried fruit, processed potatoes, beer and wine",
+                    "Gastroesophageal reflux disease (GERD), a condition in which stomach acids back up into your throat"
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Asthma symptoms vary from person to person. You may have infrequent asthma attacks, have symptoms only at certain times — such as when exercising — or have symptoms all the time.",
+                "list":[
+                    	"Shortness of breath",
+                    	"Chest tightness or pain",
+                    	"Wheezing when exhaling, which is a common sign of asthma in children",
+                    	"Trouble sleeping caused by shortness of breath, coughing or wheezing",
+                    	"Coughing or wheezing attacks that are worsened by a respiratory virus, such as a cold or the flu",
+                        "difficulty talking",
+                        "anxiousness or panic",
+                       " fatigue"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"While there's no way to prevent asthma, you and your doctor can design a step-by-step plan for living with your condition and preventing asthma attacks.",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"If you haven’t been diagnosed with asthma but are experiencing symptoms such as wheezing, coughing, or shortness of breath, you should let your doctor know. ",
+                "list":[
+                    
+                ]
+            },
+            {
+                "message":"Once you’re diagnosed with asthma, you should see your doctor at least once a year or more frequently if you have persistent symptoms after using treatments.",
+                "list":[
+                   " feel weak",
+                    "can’t perform daily activities",
+                   " have a wheeze or cough that won’t go away"
+
+                ]   
+            }
+        ]                     
+    },
+    {
+        "id":14,
+        "name": "Burns",
+        "tags":["burning-sensation", "itchy-skin", "blisters", "scaly-skin"],
+        "overview": "Burns are one of the most common household injuries, especially among children. The term “burn” means more than the burning sensation associated with this injury. Burns are characterized by severe skin damage that causes the affected skin cells to die. Most people can recover from burns without serious health consequences, depending on the cause and degree of injury. More serious burns require immediate emergency medical care to prevent complications and death.",
+          "causes":[
+              {
+                  "headline":"",
+                  "list":[
+                   " Fire",
+                    "Hot liquid or steam",
+                    "Hot metal, glass or other objects",
+                   " Electrical currents",
+                    "Radiation, such as that from X-rays",
+                   " Sunlight or other sources of ultraviolet radiation, such as a tanning bed",
+                    "Chemicals such as strong acids, lye, paint thinner or gasoline",
+                    "Abuse"
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Burn symptoms vary depending on how deep the skin damage is. It can take a day or two for the signs and symptoms of a severe burn to develop.",
+                "list":[
+                   "Firsr degree burns are minor burns which only affect the outer layer of the skin. It may cause redness and pain",
+                   "Second degree burns affect both the epidermins and the second layer of the skin (dermis). It may cuase swelling and red, white or splotchy skin. Blisters may develop and pain can be severe. Deeo second degree burns can cause scarring",
+                   "Third degree burns reach the fat layer beneath the skin. Burned areas may be black, brown or white. The skin may look leathery. Third degree burns can destory nerves causing numbness"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"",
+                "list":[
+                   " Keep children out of the kitchen while cooking.",
+"Turn pot handles toward the back of the stove.",
+"Place a fire extinguisher in or near the kitchen.",
+"Test smoke detectors once a month.",
+"Replace smoke detectors every 10 years.",
+"Keep water heater temperature under 120 degrees Fahrenheit.",
+"Measure bath water temperature before use.",
+"Lock up matches and lighters.",
+"Install electrical outlet covers.",
+"Check and discard electrical cords with exposed wires.",
+"Keep chemicals out of reach, and wear gloves during chemical use.",
+"Wear sunscreen every day, and avoid peak sunlight.",
+"Ensure all smoking products are stubbed out completely.",
+"Clean out dryer lint traps regularly."
+
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Call your doctor if you experience:",
+                "list":[
+                    "Burns that cover the hands, feet, face, groin, buttocks, a major joint or a large area of the body",
+"Deep burns, which means burns affecting all layers of the skin or even deeper tissues",
+"Burns that cause the skin to look leathery",
+"Burns that appear charred or have patches of black, brown or white",
+"Burns caused by chemicals or electricity",
+"Difficulty breathing or burns to the airway",
+	"Signs of infection, such as oozing from the wound, increased pain, redness and swelling",
+	"A burn or blister that's large or doesn't heal in two weeks",
+	"New, unexplained symptoms",
+	"Significant scarring"
+
+
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":15,
+        "name": "Cellulitis",
+        "tags":["itchy-skin", "blisters", "pus", "fever", "burning-sensation", "sores", "scaly-skin", "fatigue", "diziness", "muscle-aches"],
+        "overview": "Cellulitis is a common and sometimes painful bacterial skin infection. It may first appear as a red, swollen area that feels hot and tender to the touch. The redness and swelling can spread quickly. It most often affects the skin of the lower legs, although the infection can occur anywhere on a person’s body or face. Cellulitis usually happens on the surface of the skin, but it may also affect the tissues underneath. The infection can spread to your lymph nodes and bloodstream.",
+          "causes":[
+              {
+                  "headline":"Cellulitis occurs when certain types of bacteria enter the skin through a cut or crack. Staphylococcus and Streptococcus bacteria can cause this infection.",
+                  "list":[
+                      "Cuts",
+                     " :Bug bites",
+                     "Surgical wounds"
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Possible signs and symptoms of cellulitis, which usually occur on one side of the body, include:",
+                "list":[
+                    "Red area of skin that tends to expand",
+                   " Swelling",
+                  "  Tenderness",
+                    "Pain",
+                    "Warmth",
+                    "Fever",
+                   " Red spots",
+                    "Blisters",
+                    "Skin dimpling",
+                    "An abcess with pus"
+                ]
+            },
+            {
+                "headline":"More serious signs of cullulitis include:",
+                "list":[
+                   " shaking",
+"chills",
+"feeling ill",
+"fatigue",
+"dizziness",
+"lightheadedness",
+"muscle aches",
+"warm skin",
+"sweating"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"If you have a break in your skin, clean it right away and apply antibiotic ointment. Cover your wound with a bandage. Change the bandage daily until a scab forms. Watch your wounds for redness, drainage, or pain. These could be signs of an infection.",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"It's important to identify and treat cellulitis early because the condition can spread rapidly throughout your body. Seek emergency care if:",
+                "list":[
+                    "You have a red, swollen, tender rash or a rash that's changing rapidly",
+                    "You have a fever"
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":16,
+        "name": "Cholera",
+        "tags":["nausea", "dehydration", "fever", "itchy-eyes", "watery-eye", "eye-pain", "diarrhea", "vomitting", "fatigue", "cough", "runny-nose", "headaches", "dehydration", "sunken-eyes"],
+        "overview": "Cholera is a bacterial disease usually spread through contaminated water. Cholera causes severe diarrhea and dehydration. Left untreated, cholera can be fatal within hours, even in previously healthy people. Modern sewage and water treatment have virtually eliminated cholera in industrialized countries. But cholera still exists in Africa, Southeast Asia and Haiti. The risk of a cholera epidemic is highest when poverty, war or natural disasters force people to live in crowded conditions without adequate sanitation. Cholera is easily treated. Death from severe dehydration can be prevented with a simple and inexpensive rehydration solution.",
+          "causes":[
+              {
+                  "headline":"Cholera is caused by bacteria called Vibrio cholerae. The disease’s deadly effects are the result of a strong toxin known as CTX that is produced by these bacteria in your small intestine. CTX interferes with the normal flow of sodium and chloride when it binds to your intestinal walls. When the bacteria attaches to the small intestine’s walls, your body begins to secrete large amounts of water that lead to diarrhea and the rapid loss of fluids and salts. Contaminated water supplies are the primary source of cholera infection. Uncooked fruits, vegetables, and other foods can also contain the bacteria that cause cholera.  Cholera is not usually passed from person to person through casual contact.",
+                  "list":[
+                     
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Symptoms of cholera infection can include:",
+                "list":[
+                    "Diarrhea",
+                    "Nausea and vomitting",
+                    "Dehydration",
+                    "Irritability",
+                    "Fatigue",
+                    "Sunken eyes",
+                    "Fever"
+                ]
+            }
+           
+        ],
+        "prevention":[
+            {
+                "headline":"If you’re traveling to an area where cholera is common, your chances of catching the disease are still low if you:",
+                "list":[
+                    "Wash your hands with soap and water frequently",
+                    "Drink only bottled or boiled water",
+                    "Avoid raw food and shellfish",
+                    "Avoid dairy foods",
+                    "Eat raw fruits and vegetable that you can peel yourself",
+                    "Eat food that's completely cooked and hot"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"The risk of cholera is slight in industrialized nations. Even in areas where it exists you're not likely to become infected if you follow food safety recommendations. Still, cases of cholera occur throughout the world. If you develop severe diarrhea after visiting an area with active cholera, see your doctor. If you have diarrhea, especially severe diarrhea, and think you might have been exposed to cholera, seek treatment right away. Severe dehydration is a medical emergency that requires immediate care.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":17,
+        "name": "Conjuctivitis",
+        "tags":["eye-pain", "sunken-eyes", "watery-eye", "itchy-eyes"],
+        "overview": "Conjunctivitis, commonly known as “pink eye,” is an infection or swelling in the outer membrane of your eyeball. Blood vessels in your conjunctiva, a thin membrane that lines part of your eye, become inflamed. This gives your eye the red or pink color that’s commonly associated with conjunctivitis.",
+          "causes":[
+              {
+                  "headline":"The most common causes of pink eye are:",
+                  "list":[
+                      "Viruses or bacteria",
+                      "Allergies",
+                      "Chemicals splashing into the eye"         
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Since bacterial or viral conjunctivitis is very contagious, it’s important to pay attention to your symptoms. The condition can be passed along to others up to 2 weeks after it develops. Symptoms include:",
+                "list":[
+                    "Pink or red-toned eyes",
+                    "Gritty feeling in your eyes",
+                    "Watery or thick discharge that builds up on your eyes at night",
+                    "Itchiness in your eyes",
+                    "Abnormal amount of tears"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Practicing good hygiene is one of the best ways to avoid and stop the transmission of conjunctivitis. Try to avoid touching your eyes with your hands, and wash your hands thoroughly and often. Only use clean tissues and towels to wipe your face and eyes. Make sure that you don’t share your cosmetics, especially eyeliner or mascara, with other people. It’s also a good idea to wash and change your pillowcases frequently. If your healthcare provider thinks that your contact lenses are contributing to your pink eye, they may recommend switching to another type of contact lens or disinfection solution. They may suggest cleaning or replacing your contact lenses more frequently, or that you stop wearing contact lenses indefinitely (or at least until your eye heals). Avoiding poorly fitted contact lenses and decorative contact lenses may also decrease your risk for pink eye.",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Most cases of bacterial and viral pink eye will get better without treatment in a few days to two weeks. To relieve symptoms in the meantime:",
+                "list":[
+                    "Use artificial tears or lubricating eye drops to prevent dryness. (Throw out the bottle once your infection has cleared so that you don’t reinfect yourself.)",
+                   "Hold cold packs or warm, moist compresses to your eye to bring down swelling.",
+                    "Clean the discharge from your eyes with a wet washcloth or tissue."
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"See your healthcare provider if:",
+                "list":[
+                   "Your eyes are very painful",
+                   "You have blurred vision, sensitivity to light, or other vision problems",
+                   "Your eyes are very red",
+                   "Your symptoms don't go away after a week without medicine or after 24 hours on antibiotics",
+                   "Your symptoms get worse",
+                   "You have a weakened immune system from a condition like cancer or HIV or from medicine you take"
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":18,
+        "name": "Constipation",
+        "tags":["constipation", "dehydration"],
+        "overview": "Chronic constipation is infrequent bowel movements or difficult passage of stools that persists for several weeks or longer. Constipation is generally described as having fewer than three bowel movements a week. Though occasional constipation is very common, some people experience chronic constipation that can interfere with their ability to go about their daily tasks. Chronic constipation may also cause people to strain excessively in order to have a bowel movement. Treatment for chronic constipation depends in part on the underlying cause. However, in some cases, a cause is never found.",
+          "causes":[
+              {
+                  "headline":"Common causes of constipation include:",
+                  "list":[
+                    "low-fiber diet, particularly diets high in meat, milk, or cheese",
+                    "dehydration",
+                    "lack of exercise",
+                    "delaying the impulse to have a bowel movement",
+                    "travel or other changes in routine",
+                    "certain medications, such as high calcium antacids and pain medications",
+                    "pregnancy" 
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Signs and symptoms of chronic constipation include:",
+                "list":[
+                   "Passing fewer than three stools a week",
+"Having lumpy or hard stools",
+"Straining to have bowel movements",
+"Feeling as though there's a blockage in your rectum that prevents bowel movements",
+"Feeling as though you can't completely empty the stool from your rectum",
+"Needing help to empty your rectum, such as using your hands to press on your abdomen and using a finger to remove stool from your rectum"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"The following can help you avoid developing chronic constipation.",
+                "list":[
+                   "Include plenty of high-fiber foods in your diet, including beans, vegetables, fruits, whole grain cereals and bran.",
+"Eat fewer foods with low amounts of fiber such as processed foods, and dairy and meat products.",
+"Drink plenty of fluids.",
+"Stay as active as possible and try to get regular exercise.",
+"Try to manage stress.",
+"Don't ignore the urge to pass stool.",
+"Try to create a regular schedule for bowel movements, especially after a meal.",
+"Make sure children who begin to eat solid foods get plenty of fiber in their diets"
+
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Here are some tips to ease constipation",
+                "list":[
+                    "Drink more water",
+                    "Eat foods high in fiber",
+                    "Engage in exercise",
+                    "Drink lots of caffeine",
+                    "Ingest probiotic foods or supplements",
+                    "Avoid dairy intake"
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Make an appointment with your doctor if you experience unexplained and persistent changes in your bowel habits.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":19,
+        "name": "Diabetes",
+        "tags":["urinary-problems", "blurry-vision", "weight-loss", "dehydration", "fatigue", "nausea", "vomitting", "diarrhea", "hyperpigmentation", "constipation"],
+        "overview": "Diabetes mellitus refers to a group of diseases that affect how your body uses blood sugar (glucose). Glucose is vital to your health because it's an important source of energy for the cells that make up your muscles and tissues. It's also your brain's main source of fuel. The underlying cause of diabetes varies by type. But, no matter what type of diabetes you have, it can lead to excess sugar in your blood. Too much sugar in your blood can lead to serious health problems. Chronic diabetes conditions include type 1 diabetes and type 2 diabetes. Potentially reversible diabetes conditions include prediabetes and gestational diabetes. Prediabetes occurs when your blood sugar levels are higher than normal, but not high enough to be classified as diabetes. And prediabetes is often the precursor of diabetes unless appropriate measures are taken to prevent progression. Gestational diabetes occurs during pregnancy but may resolve after the baby is delivered.",
+          "causes":[
+              {
+                  "headline":"Type 1 diabetes",
+                  "list":[
+                   " Doctors don’t know exactly what causes type 1 diabetes. For some reason, the immune system mistakenly attacks and destroys insulin-producing beta cells in the pancreas. Genes may play a role in some people. It’s also possible that a virus sets off the immune system attack."             
+                      ]
+              },
+              {
+                  "headline":"Type 2 diabetes",
+                  "list":[
+                    "Type 2 diabetes stems from a combination of genetics and lifestyle factors. Being overweight or obese increases your risk too. Carrying extra weight, especially in your belly, makes your cells more resistant to the effects of insulin on your blood sugar. This condition runs in families. Family members share genes that make them more likely to get type 2 diabetes and to be overweight."         
+                  ]
+              },
+              {
+                  "headline":"Gestational diabetes",
+                  "list":[
+            "Gestational diabetes is the result of hormonal changes during pregnancy. The placenta produces hormones that make a pregnant woman’s cells less sensitive to the effects of insulin. This can cause high blood sugar during pregnancy. Women who are overweight when they get pregnant or who gain too much weight during their pregnancy are more likely to get gestational diabetes."
+                    
+                  ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Some of the signs and symptoms of type 1 diabetes and type 2 diabetes are:",
+                "list":[
+                    "Increased thirst",
+"Frequent urination",
+"Extreme hunger",
+"Unexplained weight loss",
+"Presence of ketones in the urine (ketones are a byproduct of the breakdown of muscle and fat that happens when there's not enough available insulin)",
+"Fatigue",
+"Irritability",
+"Blurred vision",
+"Slow-healing sores",
+"Frequent infections, such as gums or skin infections and vaginal infections"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Type 1 diabetes isn’t preventable because it’s caused by a problem with the immune system. Some causes of type 2 diabetes, such as your genes or age, aren’t under your control either.",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Diabetes is a serious condition that requires you contacting your doctor",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"If you notice any possible diabetes symptoms, contact your doctor. The earlier the condition is diagnosed, the sooner treatment can begin.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":20,
+        "name": "Diarrhea",
+        "tags":["nausea", "fever", "abdominal-pain", "bloating", "diarrhea", "dehydration", "bloody-stools", "weight-loss", "loss-of-appetite"], 
+        "overview": "Diarrhea is characterized by loose, watery stools or a frequent need to have a bowel movement. It usually lasts a few days and often disappears without any treatment. Diarrhea can be acute or chronic. Acute diarrhea occurs when the condition lasts for one to two days. You might experience diarrhea as a result of a viral or bacterial infection. Other times, it could be due to food poisoning. There’s even a condition known as traveler’s diarrhea, which happens when you have diarrhea after being exposed to bacteria or parasites while on vacation in a developing nation. Acute diarrhea is fairly common. Chronic diarrhea refers to diarrhea that lasts for at least four weeks. It’s usually the result of an intestinal disease or disorder, such as celiac disease or Crohn’s disease.",
+          "causes":[
+              {
+                  "headline":"You may experience diarrhea as a result of a number of conditions or circumstances. Potential causes of diarrhea include:",
+                  "list":[
+                    "a food intolerance, such as lactose intolerance",
+                    "a food allergy",
+                    "an adverse reaction to a medication",
+                   "a viral infection",
+                   "a bacterial infection",
+                    "an intestinal disease",
+                    "a parasitic infection",
+                  "gallbladder or stomach surgery"
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"There are many different symptoms of diarrhea. You may experience only one of these or any combination of all of them. The symptoms depend on the cause. It’s common to feel one or more of the following:",
+                "list":[
+                    "nausea",
+"abdominal pain",
+"cramping",
+"bloating",
+"dehydration",
+"a fever",
+"bloody stools",
+"a frequent urge to evacuate your bowels",
+"a large volume of stools"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Although diarrhea can occur for various reasons, there are actions that you can take to prevent it:",
+                "list":[
+                   "You can avoid developing diarrhea from food poisoning by washing the cooking and food preparation areas more frequently.",
+"Serve food immediately after preparing it.",
+"Refrigerate leftovers promptly.",
+"Always thaw frozen food in a refrigerator."
+
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"See a doctor",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":21,
+        "name": "Earwax build-up/blockage",
+        "tags":["diziness", "cough", "headaches"],
+        "overview": "Earwax blockage occurs when earwax (cerumen) accumulates in your ear or becomes too hard to wash away naturally. Earwax is a helpful and natural part of your body's defenses. It cleans, lubricates and protects your ear canal by trapping dirt and slowing the growth of bacteria. If earwax blockage becomes a problem, you or your doctor can take simple steps to remove the wax safely.",
+          "causes":[
+              {
+                  "headline":"The wax in your ears is secreted by glands in the skin that lines the outer half of your ear canals. The wax and tiny hairs in these passages trap dust and other foreign particles that could damage deeper structures, such as your eardrum. In most people, a small amount of earwax regularly makes its way to the opening of the ear, where it's washed away or falls out as new wax is secreted to replace it. If you secrete an excessive amount of wax or if earwax isn't cleared effectively, it may build up and block your ear canal. Earwax blockages commonly occur when people try to clean their ears on their own by placing cotton swabs or other items in their ears. This often just pushes wax deeper into the ear, rather than removing it.",
+                  "list":[
+                        ""
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Signs and symptoms of earwax blockage may include:",
+                "list":[
+                    "Earache",
+"Feeling of fullness in the affected ear",
+"Ringing or noises in the ear (tinnitus)",
+"Decreased hearing in the affected ear",
+"Dizziness",
+"Cough",
+"sudden or partial hearing loss, which is usually temporary"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"",
+                "list":[
+                
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"You should never attempt to dig out earwax buildup yourself. This can cause major damage to your ear and lead to infection or hearing loss. However, you’ll often be able to get rid of the excess earwax yourself. Only use cotton swabs on the outer portion of your ears if necessary.",
+                "list":[
+                   
+                ]
+            },
+            {
+                "headline":"Another alternative is to softening earwax using over-the-counter drops or other substances such as baby oil, carbamide peroxide, hydrogen peroxide and mineral oils",
+                "list":[]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Unremoved earwax buildup can lead to infection. Contact your doctor if you experience the symptoms of infection, such as:",
+                "list":[
+                   "severe pain in your ear",
+                    "pain in your ear that doesn’t subside",
+                    "drainage from your ear",
+                    "fever",
+                   "coughing",
+                   "persistent hearing loss",
+                    "an odor coming from your ear",
+                    "dizziness"
+                    
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":22,
+        "name": "Food poisoning",
+        "tags":["muscle-aches", "abdominal-pain", "diarrhea", "nausea", "loss-of-appetite", "fever", "fatigue", "nausea", "headaches", "fever", "dehydration", "bloody-stools", "weight-loss", "constipation", "vomitting", "decreased-urination", "urinary-problems", "bloody-urine", "dark-urine"],
+        "overview": "Food poisoning, also called foodborne illness, is illness caused by eating contaminated food. Infectious organisms — including bacteria, viruses and parasites — or their toxins are the most common causes of food poisoning. Infectious organisms or their toxins can contaminate food at any point of processing or production. Contamination can also occur at home if food is incorrectly handled or cooked. Food poisoning symptoms, which can start within hours of eating contaminated food, often include nausea, vomiting or diarrhea. Most often, food poisoning is mild and resolves without treatment. But some people need to go to the hospital.",
+          "causes":[
+              {
+                  "headline":"Contamination of food can happen at any point of production: growing, harvesting, processing, storing, shipping or preparing. Cross-contamination — the transfer of harmful organisms from one surface to another — is often the cause. This is especially troublesome for raw, ready-to-eat foods, such as salads or other produce. Because these foods aren't cooked, harmful organisms aren't destroyed before eating and can cause food poisoning. Many bacterial, viral or parasitic agents cause food poisoning. The following table shows some of the possible contaminants, when you might start to feel symptoms and common ways the organism is spread.",
+                  "list":[
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"If you have food poisoning, chances are it won’t go undetected. Symptoms can vary depending on the source of the infection. The length of time it takes for symptoms to appear also depends on the source of the infection, but it can range from as little as 1 hour to as long as 28 days. Common cases of food poisoning will typically include at least three of the following symptoms:",
+                "list":[
+                    "abdominal cramps",
+"diarrhea",
+"vomiting",
+"loss of appetite",
+"fever",
+"weakness",
+"nausea",
+"headaches"
+                ]
+            },
+            {
+                "headline":"Symptoms of potentially life-threatening food poisoning include:",
+                "list":[
+                    "diarrhea persisting for more than three days",
+	"a fever higher than 101.5°F",
+"difficulty seeing or speaking",
+"symptoms of severe dehydration, which may include dry mouth, passing little to no urine, and difficulty keeping fluids down",
+"bloody urine"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"To prevent food poisoning at home:",
+                "list":[
+                "Wash your hands, utensils and food surfaces often",
+                "Keep raw foods separate from ready-to-eat foods",
+                "Cook foods to a safe temperature",
+                "Refrigerate or freeze perishable foods promptly",
+                "Defrost food safely",
+                "Throw it out when in doubt"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"To ease the symptoms of food-poisoning, try the following",
+                "list":[
+                    "Drink lots of water to prevent dehydration",
+                    "Avoid solid foods to lower vomitting/nausea",
+                    "Get large amounts of rest"
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"If you experience any of the following signs or symptoms, seek medical attention.",
+                "list":[
+                    "Frequent episodes of vomiting and inability to keep liquids down",
+                   "Bloody vomit or stools",
+                    "Diarrhea for more than three days",
+                    "Extreme pain or severe abdominal cramping",
+                    "An oral temperature higher than 100.4 F (38 C)",
+                    "Signs or symptoms of dehydration — excessive thirst, dry mouth, little or no urination, severe weakness, dizziness, or lightheadedness",
+                    "Neurological symptoms such as blurry vision, muscle weakness and tingling in the arms"
+                    
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":23,
+        "name": "Bacterial gastroenteritis",
+        "tags":["loss-of-appetite", "nausea", "diarrhea", "abdominal-pain", "bloody-stools", "fever", "fatigue", "weight-loss", "vomitting", "stomach-pain", "muscle-aches"],
+        "overview": "Bacterial gastroenteritis happens when bacteria causes an infection in your gut. This causes inflammation in your stomach and intestines. You may also experience symptoms like vomiting, severe abdominal cramps, and diarrhea. While viruses cause many gastrointestinal infections, bacterial infections are also common. Some people call this infection “food poisoning.” Bacterial gastroenteritis can result from poor hygiene. Infection can also occur after close contact with animals or consuming food or water contaminated with bacteria (or the toxic substances bacteria produce).",
+          "causes":[
+              {
+                  "headline":"Bacterial gastroenteritis outbreaks can happen when restaurants serve contaminated food to many people. An outbreak can also trigger recalls of produce and other foods. Bacterial gastroenteritis can be easily transmitted from person to person if someone carries the bacteria on their hands. Every time a person infected with this bacteria touches food, objects, or other people, they risk spreading the infection to others. You can even cause the infection to get into your own body if you touch your eyes, mouth, or other open parts of your body with infected hands. You’re especially at risk for these infections if you travel a lot or live in a crowded area. Washing your hands often and using hand sanitizer with more than 60 percent alcohol can help you avoid catching infections from the people around you.",
+                  "list":[
+                 
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Bacterial gastroenteritis symptoms vary depending on the bacteria causing your infection. The symptoms may include:",
+                "list":[
+                    "loss of appetite",
+"abdominal pains and cramps",
+"blood in your stools",
+"Nausea or vomiting",
+"Diarrhea",
+"Low-grade fever (sometimes)"
+
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"You can also help prevent bacterial gastroenteritis infections by:",
+                "list":[
+                "Washing your hands after using the toilet and before handling food.",
+                "Keeping your kitchen consistently clean",
+                "Washing your hands after using the toilet, before handling different foods, after touching animals, and before eating",
+                    "Drinking bottled water while traveling abroad and getting recommended vaccines"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"To ease the symptoms of bacterial gastroenteritis:",
+                "list":[
+                    "Drink lots of liquids to prevent dehydration",
+                    "Get adequate rest",
+                    "Try a mixture of salt and glucose in water",
+                    "Avoid eating if nauseated"
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Call your doctor if your symptoms don’t improve after five days (two days for children). If a child older than three months continues to vomit after 12 hours, call a doctor. If a baby younger than three months has diarrhea or vomiting, call your doctor.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":24,
+        "name": "Hypoglycemia",
+        "tags":["diziness", "fatigue", "dry-skin", "loss-of-appetite", "excessive-sweating", "dehydration", "headaches", "blurry-vision", "constipation", "weight-loss"],
+        "overview": "Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions — many rare — can cause low blood sugar in people who don't have diabetes Hypoglycemia needs immediate treatment when blood sugar levels are low. For many people, a fasting blood sugar of 70 milligrams per deciliter (mg/dL), or 3.9 millimoles per liter (mmol/L), or below should serve as an alert for hypoglycemia. But your numbers might be different. Ask your doctor. Treatment involves quickly getting your blood sugar back to normal either with high-sugar foods or drinks or with medications. Long-term treatment requires identifying and treating the cause of hypoglycemia.",
+          "causes":[
+              {
+                  "headline":"Hypoglycemia in people without diabetes is much less common. Causes can include the following:",
+                  "list":[
+                        "Medications",
+                        "Excessive alcohol drinking",
+                        "Some criticall illnesses",
+                        "Insulin overproduction",
+                        "Hormone deficiencies"
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Symptoms of low blood sugar can occur suddenly. They include:",
+                "list":[
+                    "blurry vision",
+"rapid heartbeat",
+"sudden mood changes",
+"sudden nervousness",
+"unexplained fatigue",
+"pale skin",
+"headache",
+"hunger",
+"shaking",
+"dizziness",
+"sweating",
+"difficulty sleeping",
+"skin tingling",
+"trouble thinking clearly or concentrating",
+"loss of consciousness, seizure, coma"
+
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"",
+                "list":[
+                
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":". If someone you know has diabetes and they’re experiencing mild to moderate symptoms, have them eat or drink 15 grams of easily digestible carbohydrates, such as:",
+                "list":[
+                    "half a cup of juice or regular soda",
+"1 tablespoon of honey",
+"4 or 5 saltine crackers",
+"3 or 4 pieces of hard candy or glucose tablets",
+"1 tablespoon of sugar"
+
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Seek a doctor's help immediately if:",
+                "list":[
+                   "You have what might be hypoglycemia symptoms and you don't have diabetes",
+                   "You have diabetes and hypoglycemia isn't responding to treatment, such as drinking juice or regular soft drinks, eating candy, or taking glucose tablets"
+                   
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":25,
+        "name": "Hypoxia",
+        "tags":["excessive-sweating", "diziness", "shortness-of-breath", "cough", "headaches", "wheezes"],
+        "overview": "Brain hypoxia is when the brain isn’t getting enough oxygen. This can occur when someone is drowning, choking, suffocating, or in cardiac arrest. Brain injury, stroke, and carbon monoxide poisoning are other possible causes of brain hypoxia. The condition can be serious because brain cells need an uninterrupted flow of oxygen to function properly.",
+          "causes":[
+              {
+                  "headline":"There are many medical conditions and events that interrupt the flow of oxygen to your brain. Stroke, cardiac arrest, and an irregular heartbeat can prevent oxygen and nutrients from traveling to the brain. Other possible causes of oxygen depletion include:",
+                  "list":[
+                    "hypotension, which is extremely low blood pressure",
+                    "anesthesia complications during surgery",
+                    "choking",
+                    "carbon monoxide poisoning",
+                    "drowning",
+                    "breathing in carbon monoxide or smoke",
+                    "traveling to high altitudes (above 8,000 feet)",
+                    "brain injury",
+                   "strangulation",
+                    "medical conditions that make it difficult to breathe, such as extreme asthma attacks"
+                    
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Brain hypoxia symptoms range from mild to severe. Mild symptoms include:",
+                "list":[
+                    "temporary memory loss",
+"reduced ability to move your body",
+"difficulty paying attention",
+"difficulty making sound decisions"
+                ]
+            },
+            {
+                "headline":"Severe symptoms include",
+                "list":[
+                    "Seizures",
+                    "Coma",
+                    "Brain death"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"You can prevent brain hypoxia by monitoring certain health conditions. See a doctor if your blood pressure is too low, and keep your inhaler nearby at all times if you are asthmatic. Avoid high altitudes if you are susceptible to altitude sickness. For people unexpectedly deprived of oxygen, such as during a fire, immediate cardiopulmonary resuscitation (CPR) helps to prevent the condition from getting worse.",
+                "list":[
+                
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"There are no treatment options available for brain hypoxia",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"See your doctor immediately if you experience symptoms of hypoxia",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":26,
+        "name": "Impetigo",
+        "tags":["itchy-skin", "sores"],
+        "overview": "Impetigo is a common and highly contagious skin infection that mainly affects infants and young children. It usually appears as reddish sores on the face, especially around the nose and mouth and on the hands and feet. Over about a week, the sores burst and develop honey-colored crusts. Treatment with antibiotics can limit the spread of impetigo to others. Keep children home from school or day care until they're no longer contagious — usually 24 hours after beginning antibiotic treatment.",
+          "causes":[
+              {
+                  "headline":"Impetigo is an infection caused by strains of staph or strep bacteria. These bacteria can get into your body through a break in the skin from a cut, scratch, insect bite, or rash. Then they can invade and colonize. The condition can be contagious. You can catch these bacteria if you touch the sores of a person with impetigo or you touch items like towels, clothes, or sheets that the person used. However, these bacteria are also common in our environment, and most people who come in contact with them won’t necessarily develop impetigo. Some people normally carry staph bacteria on the inside of their nose. They may get infected if the bacteria spreads to their skin.",
+                  "list":[                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"",
+                "list":[
+                    "Sores around the nose and mouth",
+                    "Itchiness"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Keeping skin clean is the best way to keep it healthy. It's important to wash cuts, scrapes, insect bites and other wounds right away. To help prevent impetigo from spreading to others:",
+                "list":[
+                    "Gently wash the affected areas with mild soap and running water and then cover lightly with gauze.",
+                    "Wash an infected person's clothes, linens and towels every day with hot water and don't share them with anyone else in your family",
+                    "Wear gloves when applying antibiotic ointment and wash your hands thoroughly afterward.",
+                   "Cut an infected child's nails short to prevent damage from scratching.",
+                    "Encourage regular and thorough handwashing and good hygiene in general.",
+                    "Keep your child with impetigo home until your doctor says they aren't contagious."
+                    
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"If you suspect that you or your child has impetigo, consult your family doctor, your child's pediatrician or a dermatologist.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":27,
+        "name": "Indigestion",
+        "tags":["stomach-pain", "burning-sensation", "heartburns", "bloating", "nausea", "diarrhea", "constipation", "fatigue", "abdominal-pain"],
+        "overview": "Indigestion — also called dyspepsia or an upset stomach — is a general term that describes discomfort in your upper abdomen. Indigestion is not a disease, but rather some symptoms you experience, including abdominal pain and a feeling of fullness soon after you start eating. Although indigestion is common, each person may experience indigestion in a slightly different way. Symptoms of indigestion may be felt occasionally or as often as daily. Indigestion can be a symptom of another digestive disease. Indigestion that isn't caused by an underlying disease may be eased with lifestyle changes and medication.",
+          "causes":[
+              {
+                  "headline":"Indigestion has many possible causes. Often, indigestion is related to lifestyle and may be triggered by food, drink or medication. Common causes of indigestion include:",
+                  "list":[
+                    "Overeating or eating too quickly",
+                    "Fatty, greasy or spicy foods",
+                    "Too much caffeine, alcohol, chocolate or carbonated beverages",
+                    "Smoking",
+                    "Anxiety",
+                   "Certain antibiotics, pain relievers and iron supplements"
+                     ]
+              },
+              {
+                  "headline":"Sometimes indigestion is caused by other digestive conditions, including:",
+                  "list":[
+                    " Inflammation of the stomach (gastritis)",
+                    "Peptic ulcers",
+                    "Celiac disease",
+                    "Gallstones",
+                    "Constipation",
+                    "Pancreas inflammation (pancreatitis)",
+                    "Stomach cancer",
+                    "Intestinal blockage",
+                    "Reduced blood flow in the intestine (intestinal ischemia)"
+                  ]
+            
+
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Common symptoms of indigestion include:",
+                "list":[
+                    "feeling full during a meal and not being able to finish eating",
+"feeling very full after eating a normal-sized meal",
+"burning sensation in the stomach or esophagus",
+"gnawing sensation in the stomach",
+"experiencing excessive gas or belching"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Medication isn’t the only treatment for indigestion. You may be able to improve digestion and relieve uncomfortable symptoms with lifestyle adjustments. For example:",
+                "list":[
+                    "Eat smaller meals throughout the day.",
+"Avoid spicy, fatty foods that can trigger heartburn.",
+"Eat slower and don’t eat before lying down.",
+"Stop smoking, if you smoke.",
+"Lose excess body weight.",
+"Reduce the amount of coffee, soft drinks, and alcohol you consume.",
+"Get plenty of rest.",
+"Stop taking medications that can irritate the stomach lining, such as NSAIDs",
+"Reduce stress through yoga or relaxation therapy."
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Medication isn’t the only treatment for indigestion. You may be able to improve digestion and relieve uncomfortable symptoms with lifestyle adjustments. For example:",
+                "list":[
+                    "Eat smaller meals throughout the day.",
+"Avoid spicy, fatty foods that can trigger heartburn.",
+"Eat slower and don’t eat before lying down.",
+"Stop smoking, if you smoke.",
+"Lose excess body weight.",
+"Reduce the amount of coffee, soft drinks, and alcohol you consume.",
+"Get plenty of rest.",
+"Stop taking medications that can irritate the stomach lining, such as NSAIDs",
+"Reduce stress through yoga or relaxation therapy."
+
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Even though indigestion is a common problem, some bouts shouldn’t be ignored. Frequent indigestion is often a symptom of a chronic digestive problem like acid reflux, gastritis, and even stomach cancer. Therefore, see a doctor if indigestion continues for more than two weeks, or if you experience severe pain or other symptoms such as:",
+                "list":[
+                    "weight loss",
+                   "loss of appetite",
+                    "vomiting",
+                    "black stools",
+                    "trouble swallowing",
+                    "fatigue"       
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":28,
+        "name": "Lactose Intolerance",
+        "tags":["bloating", "diarrhea", "nausea", "abdominal-pain"],
+        "overview": "People with lactose intolerance are unable to fully digest the sugar (lactose) in milk. As a result, they have diarrhea, gas and bloating after eating or drinking dairy products. The condition, which is also called lactose malabsorption, is usually harmless, but its symptoms can be uncomfortable. Too little of an enzyme produced in your small intestine (lactase) is usually responsible for lactose intolerance. You can have low levels of lactase and still be able to digest milk products. But if your levels are too low you become lactose intolerant, leading to symptoms after you eat or drink dairy. Most people with lactose intolerance can manage the condition without having to give up all dairy foods.",
+          "causes":[
+              {
+                  "headline":"Lactose intolerance occurs when your small intestine doesn't produce enough of an enzyme (lactase) to digest milk sugar (lactose). Normally, lactase turns milk sugar into two simple sugars — glucose and galactose — which are absorbed into the bloodstream through the intestinal lining. If you're lactase deficient, lactose in your food moves into the colon instead of being processed and absorbed. In the colon, normal bacteria interact with undigested lactose, causing the signs and symptoms of lactose intolerance.",
+                  "list":[
+                 
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"The symptoms of lactose intolerance typically occur between 30 minutes and two hours after eating or drinking a milk or dairy product. Symptoms may include:",
+                "list":[
+                    "abdominal cramps",
+"bloating",
+"gas",
+"diarrhea",
+"nausea",
+"vomiting"
+
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Symptoms will go away if milk and milk products are removed from the diet. Read food labels carefully to detect ingredients that may contain lactose. Aside from milk and cream, look out for ingredients derived from milk, such as:",
+                "list":[
+                    "whey or whey protein concentrate",
+                    "casein or caseinates",
+                   "curds",
+                    "cheese",
+                    "butter",
+                    "yogurt",
+                    "margarine",
+                    "dry milk solids or powder",
+                    "nougat"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Visit your doctor to detemine how to manage your symptoms of lactose intolerance",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Make an appointment with your doctor if you frequently have symptoms of lactose intolerance after eating dairy foods, particularly if you're worried about getting enough calcium.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":29,
+        "name": "Malaria",
+        "tags":["fever", "cough", "excessive-sweating", "fatigue", "muscle-aches", "phlegm", "abdominal-pain", "weight-loss", "bloating", "nausea", "dehydration", "diarrhea", "headaches", "loss-of-appetite", "runny-nose", "sore-throat", "bloody-stools", "constipation", "pain-while-chewing", "runny-nose"],
+        "overview": "Malaria is a disease caused by a parasite. The parasite is spread to humans through the bites of infected mosquitoes. People who have malaria usually feel very sick with a high fever and shaking chills. While the disease is uncommon in temperate climates, malaria is still common in tropical and subtropical countries. Each year nearly 290 million people are infected with malaria, and more than 400,000 people die of the disease.To reduce malaria infections, world health programs distribute preventive drugs and insecticide-treated bed nets to protect people from mosquito bites. A partially effective vaccine is being piloted in a few African countries, but there is no vaccine for travelers. Protective clothing, bed nets and insecticides can protect you while traveling. You also can take preventive medicine before, during and after a trip to a high-risk area. Many malaria parasites have developed resistance to common drugs used to treat the disease.",
+          "causes":[
+              {
+                  "headline":"Malaria can occur if a mosquito infected with the Plasmodium parasite bites you. Malaria is transmitted by blood, so it can also be transmitted through:",
+                  "list":[
+                    	"an organ transplant",
+                    	"a transfusion",
+                    	"use of shared needles or syringes"   
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Signs and symptoms of malaria may include:",
+                "list":[
+                   "Fever",
+"Chills",
+"General feeling of discomfort",
+"Headache",
+"Nausea and vomiting",
+"Diarrhea",
+"Abdominal pain",
+"Muscle pain",
+"Fatigue",
+"Rapid breathing",
+"Rapid heart rate",
+"Cough",
+"Profuse sweating",
+"Convulsions",
+"Bloody stools"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"If you live in or are traveling to an area where malaria is common, take steps to avoid mosquito bites. Mosquitoes are most active between dusk and dawn. To protect yourself from mosquito bites, you should:",
+                "list":[
+                "Cover your skin",
+                "Apply insect repellent to skin",
+                "Apply repellent to clothing",
+                "Sleep under a net"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"For mild symptoms of malaria, try the following",
+                "list":[
+                    "Get enough rest",
+                    "Ensure you stay hydrated",
+                    "Maintain adequate nutrition",
+                    "Stay at a comfortable temperature"
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Talk to your doctor if you experience a fever while living in or after traveling to a high-risk malaria region. If you have severe symptoms, seek emergency medical attention.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":30,
+        "name": "Mumps",
+        "tags":["headaches", "fever", "loss-of-appetite", "pain-while-chewing", "muscle-aches", "fatigue"],
+        "overview": "Mumps is a contagious disease caused by a virus that passes from one person to another through saliva, nasal secretions, and close personal contact. The condition primarily affects the salivary glands, also called the parotid glands. These glands are responsible for producing saliva. There are three sets of salivary glands on each side of your face, located behind and below your ears. The hallmark symptom of mumps is swelling of the salivary glands.",
+          "causes":[
+              {
+                  "headline":"Mumps is caused by a virus that spreads easily from person to person through infected saliva. If you're not immune, you can contract mumps by breathing in saliva droplets from an infected person who has just sneezed or coughed. You can also contract mumps from sharing utensils or cups with someone who has mumps.",
+                  "list":[
+                 
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Some people infected with the mumps virus have either no signs or symptoms or very mild ones. When signs and symptoms do develop, they usually appear about two to three weeks after exposure to the virus. The primary sign of mumps is swollen salivary glands that cause the cheeks to puff out. Other signs and symptoms may include:",
+                "list":[
+                    "Pain in the swollen salivary glands on one or both sides of your face",
+                    "Pain while chewing or swallowing",
+	                "Fever",
+	                "Headache",
+                	"Muscle aches",
+	                "Weakness and fatigue",
+                	"Loss of appetite"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Vaccination can prevent mumps. Most infants and children receive a vaccine for measles, mumps, and rubella (MMR) at the same time. The first MMR shot is generally given between the ages of 12 and 15 months at a routine well-child visit. A second vaccination is necessary for school-aged children between 4 and 6 years old. With two doses, the mumps vaccine is approximately 88 percent effective. The rate of effectivenessTrusted Source of only one dose is about 78 percent. Adults who were born before 1957 and haven’t yet contracted mumps may wish to be vaccinated. Those who work in a high-risk environment, such as a hospital or school, should always be vaccinated against mumps. However, people who have compromised immune systems, are allergic to gelatin or neomycin, or are pregnant, shouldn’t receive the MMR vaccine. Consult your family doctor about an immunization schedule for you and your children.",
+                "list":[
+                
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"First-aid for mumps include:",
+                "list":[
+                    "Rest when you feel weak or tired.",
+"Take over-the-counter pain relievers, such as acetaminophen and ibuprofen, to bring down your fever.",
+"Soothe swollen glands by applying ice packs.",
+"Drink plenty of fluids to avoid dehydration due to fever.",
+"Eat a soft diet of soup, yogurt, and other foods that aren’t hard to chew (chewing may be painful when your glands are swollen).",
+"Avoid acidic foods and beverages that may cause more pain in your salivary glands."
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"If you're expercing mumps and its symptoms, try the following:",
+                "list":[
+                   "Get adequate rest",
+                   "Take over-the-counter pain relievers",
+                   "Soothe swollen glands by applying ice packs",
+                   "Drink plenty of fluids to avoid dehydration due to fever.",
+                   "Eat a soft diet of soup, yogurt, and other foods that aren’t hard to chew (chewing may be painful when your glands are swollen).",
+                   "Avoid acidic foods and beverages that may cause more pain in your salivary glands."
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":31,
+        "name": "Ringworm",
+        "tags":["itchy-skin", "scaly-skin", "blisters"],
+        "overview": "Ringworm of the body (tinea corporis) is a rash caused by a fungal infection. It's usually a red, itchy, circular rash with clearer skin in the middle. Ringworm gets its name because of its appearance. No worm is involved. Ringworm of the body is related to athlete's foot (tinea pedis), jock itch (tinea cruris) and ringworm of the scalp (tinea capitis). Ringworm often spreads by direct skin-to-skin contact with an infected person or animal. Mild ringworm often responds to antifungal medications that you apply to your skin. For more-severe infections, you may need to take antifungal pills for several weeks.",
+          "causes":[
+              {
+                  "headline":"Ringworm is a contagious fungal infection caused by common mold-like parasites that live on the cells in the outer layer of your skin. It can be spread in the following ways:",
+                  "list":[
+                 "Human to human",
+                 "Animal to human",
+                 "Object to human",
+                    "Soil to human"
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Signs and symptoms of ringworm may include:",
+                "list":[
+                    "A scaly ring-shaped area, typically on the buttocks, trunk, arms and legs",
+"May itch",
+"A clear or scaly area inside the ring, perhaps with a scattering of red bumps",
+"Slightly raised, expanding rings",
+"A round, flat patch of itchy skin",
+"Overlapping rings"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Ringworm is difficult to prevent. The fungus that causes it is common, and the condition is contagious even before symptoms appear. Take these steps to reduce your risk of ringworm:",
+                "list":[
+                "Educate yourself and others",
+                "Keep clean",
+                "Stay cool and dry by avoiding excessive sweating",
+                "Avoid infected animals",
+                "Don't share personal items"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Your doctor/pharmacist may prescribe various medications depending on the severity of your ringworm infection. Jock itch, athlete’s foot, and ringworm of the body can all be treated with topical medications, such as antifungal creams, ointments, gels, or sprays. Ringworm of the scalp or nails may require prescription-strength oral medications such as griseofulvin (Gris-PEG) or terbinafine. Over-the-counter (OTC) medications and antifungal skin creams may be recommended for use as well. These products may contain clotrimazole, miconazole, terbinafine, or other related ingredients. Find antifungal treatments online",
+                "list":[
+                    ""
+                ]
+            },
+            {
+                "headline":"People have used home remedies for ringworm for many years before researchers invented antifungal treatments. Support for use of these remedies is mostly anecdotal. These treatments include:",
+                "list":[
+                    "Apple cider vinegar",
+                    "Coconut oil",
+                    "Turmeric"
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Talk to your doctor if you have a rash that doesn't begin to improve within two weeks of using an over-the-counter antifungal product. You may need prescription ",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "name": "Pneumonia",
+        "tags":["cough", "phlegm", "excessive-sweating", "shortness-of-breath", "headaches", "loss-of-appetite", "nausea", "chest-discomfort", "fatigue", "fever", "constipation", "diarrhea", "wheezes"],
+        "overview": "Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus (purulent material), causing cough with phlegm or pus, fever, chills, and difficulty breathing. A variety of organisms, including bacteria, viruses and fungi, can cause pneumonia. Pneumonia can range in seriousness from mild to life-threatening. It is most serious for infants and young children, people older than age 65, and people with health problems or weakened immune systems.",
+          "causes":[
+              {
+                  "headline":"Many germs can cause pneumonia. The most common are bacteria and viruses in the air we breathe. Your body usually prevents these germs from infecting your lungs. But sometimes these germs can overpower your immune system, even if your health is generally good. Pneumonia is classified according to the types of germs that cause it and where you got the infection.",
+                  "list":[
+                            "Coomunity-acquired pneumonia, the most common type of pneumonia is usually caused by bacteria, fungi and viruses",
+                            "Hospital-acquired pneumonia which some people catch during a hospital stay. People who are on breathing machines (ventilators), often used in intensive care units, are at higher risk of this type of pneumonia.",
+                            "Aspiration pneumonia which occurs when you inhale food, drink, vomit or saliva into your lungs. Aspiration is more likely if something disturbs your normal gag reflex, such as a brain injury or swallowing problem, or excessive use of alcohol or drugs."
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"The signs and symptoms of pneumonia vary from mild to severe, depending on factors such as the type of germ causing the infection, and your age and overall health. Mild signs and symptoms often are similar to those of a cold or flu, but they last longer. Signs and symptoms of pneumonia may include:",
+                "list":[
+                   "Chest pain when you breathe or cough",
+"Confusion or changes in mental awareness (in adults age 65 and older)",
+"Cough, which may produce phlegm",
+"Fatigue",
+"Fever, sweating and shaking chills",
+"Lower than normal body temperature (in adults older than age 65 and people with weak immune systems)",
+"Nausea, vomiting or diarrhea",
+"Shortness of breath"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"To help prevent pneumonia:",
+                "list":[
+                "Get vaccinated",
+                "Practice good hygiene",
+                "Avoid smoking",
+                "Keep your immune strong by getting enough sleep, exercising regularly and eating a health diet"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Generally, you will need a trip to a doctor as your treatment will depend on the type of pneumonia you have, how severe it is, and your general health.",
+                "list":[
+                    
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"See your doctor <b>immediately</b> if you have difficulty breathing, chest pain, persistent fever of 102 F (39 C) or higher, or persistent cough, especially if you're coughing up pus.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {   
+        "id":33,
+        "tags":["fever", "runny-nose", "headaches", "fatigue", "cough", "muscle-aches", "diziness", "eye-pain", "sunken-eyes", "itchy-eyes", "watery-eye", "loss-of-smell", "pain-while-chewing"],
+        "name": "Viral Sinusitis",
+        "overview": "Sinusitis is an inflammation or swelling of the tissue lining the sinuses. Sinuses are hollow spaces within the bones between your eyes, behind your cheekbones, and in your forehead. They make mucus, which keeps the inside of your nose moist. That, in turn, helps protect against dust, allergens, and pollutants. Healthy sinuses are filled with air. But when they become blocked and filled with fluid, germs can grow and cause an infection.",
+          "causes":[
+              {
+                  "headline":"Conditions that can cause sinus blockage include:",
+                  "list":[
+                    "The common cold",
+                    "Allergic rhinitis, which is swelling of the lining of the nose caused by allergens",
+                    "Small growths in the lining of the nose called nasal polyps",
+                    "A deviated septum, which is a shift in the nasal cavity"
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"The symptoms of sinusitis are similar to those of a common cold. They may include::",
+                "list":[
+                   "a decreased sense of smell",
+"fever",
+"stuffy or runny nose",
+"headache from sinus pressure",
+"fatigue",
+"cough"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Avoiding things that irritate your nose and sinuses can help decrease sinusitis. Cigarette smoke can make you especially prone to sinusitis. Smoking damages the natural protective elements of your nose, mouth, throat, and respiratory system. Ask your doctor if you need help quitting or if interested in quitting. It can be an important step in preventing episodes of both acute and chronic sinusitis. Wash your hands frequently, especially during cold and flu season, to keep your sinuses from becoming irritated or infected by viruses or bacteria on your hands. Talk to your doctor to see if allergies are causing your sinusitis. If you’re allergic to something that causes persistent sinus symptoms, you will likely need to treat your allergies. You may need to seek an allergy specialist for allergic immunotherapy shots or similar treatments. Keeping your allergies under control can help prevent repeated episodes of sinusitis.",
+                "list":[
+                
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"No first-aid advice is available for viral sinusitis",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Contact your doctor immediately if you two of more signs of a sinus infection surface.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":34,
+        "tags":["pus", "diarrhea", "constipation", "loss-of-appetite", "fever", "stomach-pain", "abdominal-pain", "nausea", "loss-of-appetite", "bloody-stools"],
+        "name": "Amebiasis",
+        "overview": "Amebiasis is a parasitic infection of the intestines caused by the protozoan Entamoeba histolytica, or E. histolytica. The symptoms of amebiasis include loose stool, abdominal cramping, and stomach pain. However, most people with amebiasis won’t experience significant symptoms.",
+          "causes":[
+              {
+                  "headline":"E. histolytica is a single-celled protozoan that usually enters the human body when a person ingests cysts through food or water. It can also enter the body through direct contact with fecal matter. The cysts are a relatively inactive form of the parasite that can live for several months in the soil or environment where they were deposited in feces. The microscopic cysts are present in soil, fertilizer, or water that’s been contaminated with infected feces. Food handlers may transmit the cysts while preparing or handling food. Transmission is also possible during anal sex, oral-anal sex, and colonic irrigation. When cysts enter the body, they lodge in the digestive tract. They then release an invasive, active form of the parasite called a trophozite. The parasites reproduce in the digestive tract and migrate to the large intestine. There, they can burrow into the intestinal wall or the colon. This causes bloody diarrhea, colitis, and tissue destruction. The infected person can then spread the disease by releasing new cysts into the environment through infected feces.",
+                  "list":[
+                 
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"On average, about one in 10 people who are infected with E. histolytica becomes sick from the infection. The symptoms often are quite mild and can include:",
+                "list":[
+                    "Loose stools",
+                    "Stomach pain",
+                    "Stomach cramping",
+                    "Bloody stools",
+                    "Fever",
+                    "An abcess with pus"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Proper sanitation is the key to avoiding amebiasis. As a general rule, thoroughly wash hands with soap and water after using the bathroom and before handling food. If you’re traveling to places where the infection is common, follow this regimen when preparing and eating food:",
+                "list":[
+                    "Thoroughly wash fruits and vegetables before eating.",
+                   "Avoid eating fruits or vegetables unless you wash and peel them yourself.",
+                    "Stick to bottled water and soft drinks.",
+                    "If you must drink water, boil it or treat it with iodine.",
+                    "Avoid ice cubes or fountain drinks.",
+                    "Avoid milk, cheese, or other unpasteurized dairy products.",
+                    "Avoid food sold by street vendors."
+                    
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    "Treatment for uncomplicated cases of amebiasis generally consists of a 10-day course of metronidazole (Flagyl) that you take as a capsule."
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Symptoms of Amebiasis can be relieved at home using over-the-counter medications. For severe symptoms, please see your healthcare provider.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":35, 
+        "tags":["diarrhea", "nausea", "dehydration", "weight-loss", "nausea", "vomitting", "fever", "fatigue", "bloody-stools", "abdominal-pain", "stomach-pain", "urinary-problems", "decreased-urination", "dark-urine"],
+        "name": "Dysentry",
+        "overview": "Dysentery is an infection in your intestines that causes bloody diarrhea. It can be caused by a parasite or bacteria.",
+          "causes":[
+              {
+                  "headline":"You can get dysentery if:",
+                  "list":[
+                 "You eat food that has been prepare by a person who has dysentry",
+                 "You touch something that has the parasite or bacteria on it",
+                 "You swim in contaminated water such as lakes or pools",
+                    "You enagage in physical contact with people infected with dysentry"
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Symptoms can show up 1-3 days after you get infected. In some people, the symptoms take longer to appear. Others never get symptoms. Common symptoms include:",
+                "list":[
+                    "Diarrhea with belly cramps",
+                    "Fever",
+                    "Nausea and vomiting",
+                    "Blood or mucus in stools",
+                    "weight loss",
+                    "Fever",
+                    "Stomach cramping"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Dysentry can be prevented through good sanitation practices, such as:",
+                "list":[
+                   "frequent hand washing",
+                    "being careful when changing a sick baby’s diaper",
+                    "not swallowing water when swimming"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    "Ensure you take plenty of fluids to replenish those your body has lost",
+                    "Get enough rest",
+                    "Try over-the-counter medications such as bismuth subsalicylate (Pepto-Bismol) which can help relieve cramps and diarrhea."
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Call your doctor if diarrhea, cramps, and other symptoms are severe, or if they don't get better within a week. ",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":36,
+        "tags":["sore-throat", "cough", "runny-nose", "fever", "fatigue", "muscle-aches", "wheezes", "phlegm", "loss-of-smell"],
+        "name": "Common cold",
+        "overview": "The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold. Children younger than 6 are at greatest risk of colds, but healthy adults can also expect to have two or three colds annually. Most people recover from a common cold in a week or 10 days. Symptoms might last longer in people who smoke. If symptoms don't improve, see your doctor.",
+          "causes":[
+              {
+                  "headline":"Although many types of viruses can cause a common cold, rhinoviruses are the most common culprit. A cold virus enters your body through your mouth, eyes or nose. The virus can spread through droplets in the air when someone who is sick coughs, sneezes or talks. It also spreads by:",
+                  "list":[
+                 "Hand to hand contact with someone who has a cold",
+                 "Sharing contaminated objects, such as utensils, towels, toys or telephones"
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Symptoms of a common cold usually appear one to three days after exposure to a cold-causing virus. Signs and symptoms, which can vary from person to person, might include:",
+                "list":[
+                    "Runny or stuffy nose",
+"Sore throat",
+"Cough",
+"Congestion",
+"Slight body aches or a mild headache",
+"Sneezing",
+"Low-grade fever",
+"Generally feeling unwell (malaise)"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"There's no vaccine for the common cold, but you can take commonsense precautions to slow the spread of cold viruses",
+                "list":[
+                "Wash you hands",
+                "Disinfect your stuff especially when someone around you has a cold",
+                "Sneeze and cough into issues and discard them right away",
+                "Avoid contact with people who have colds",
+                "Strenghten your immune system by eating well, getting enough exercise and sleep and managing stress"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Ease discomfort with:",
+                "list":[
+                    "a cool-mist humidifier or steamy bathroom",
+                    "saline (saltwater) drops for a congested nose",
+"gentle suction of nasal mucus using a bulb syringe when necessary",
+"Sufficient hydratiion",
+"Increased vitamin C intake especially by taking berries, citrus fruits, papayas and broccolis"
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Seek medical attention if you have:",
+                "list":[
+                   "Fever greater than 101.3 F (38.5 C)",
+                    "Fever lasting five days or more or returning after a fever-free period",
+                    "Shortness of breath",
+                    "Wheezing",
+                   "Severe sore throat, headache or sinus pain"
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":37,
+        "tags":[],
+        "name": "Allergic reaction",
+        "overview": "Your immune system is responsible for defending the body against bacteria and viruses. In some cases, your immune system will defend against substances that typically don’t pose a threat to the human body. These substances are known as allergens, and when your body reacts to them, it causes an allergic reaction. You can inhale, eat, and touch allergens that cause a reaction. Doctors can also use allergens to diagnose allergies and can even inject them into your body as a form of treatment.",
+          "causes":[
+              {
+                  "headline":"Doctors don’t know why some people experience allergies. Allergies appear to run in families and can be inherited. If you have a close family member who has allergies, you’re at greater risk for developing allergies. Although the reasons why allergies develop aren’t known, there are some substances that commonly cause an allergic reaction. People who have allergies are typically allergic to one or more of the following:",
+                  "list":[
+                    "pet dander",
+                    "bee stings or bites from other insects",
+                   "certain foods, including nuts or shellfish",
+                    "certain medications, such as penicillin or aspirin",
+                    "certain plants",
+                    "pollen or molds"
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"The symptoms of an allergic reaction can vary from mild to severe. If you become exposed to an allergen for the first time, your symptoms may be mild. These symptoms may get worse if you repeatedly come into contact with the allergen. Symptoms of a mild allergic reaction can include:",
+                "list":[
+                    "hives (itchy red spots on the skin)",
+"itching",
+"nasal congestion (known as rhinitis)",
+"rash",
+"scratchy throat",
+"watery or itchy eyes"
+
+                ]
+            },
+            {
+                "headline":"Severe allergic reactions can cause the following symptoms:",
+                "list":[
+                    "abdominal cramping or pain",
+"pain or tightness in the chest",
+"diarrhea",
+"difficulty swallowing",
+"dizziness (vertigo)",
+"fear or anxiety",
+"flushing of the face",
+"nausea or vomiting",
+"heart palpitations",
+"swelling of the face, eyes, or tongue",
+"weakness",
+"wheezing",
+"difficulty breathing",
+"unconsciousness"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Once you identify your allergy, you can:",
+                "list":[
+                    "Avoid exposure to the allergen.",
+                    "Seek medical care if you’re exposed to the allergen.",
+                   "Carry medications to treat anaphylaxis."
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    "In most cases, over-the-counter antihistamines, such as diphenhydramine (Benadryl), can be effective for controlling mild allergic reactions",
+                    "If you or someone you know experiences a severe allergic reaction, you should seek emergency medical attention. Check to see if the person is breathing, call 911, and provide CPR if needed."
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"If you experience an allergic reaction and you don’t know what’s causing it, you may need to see your doctor to determine what the cause of your allergy is. If you have a known allergy and experience symptoms, you may not need to seek medical care if your symptoms are mild. If you or someone you know experiences a severe allergic reaction, you should seek emergency medical attention. Check to see if the person is breathing, call 911, and provide CPR if needed.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":38,
+        "tags":["cough", "phlegm", "sore-throat", "shortness-of-breath", "chest-discomfort", "muscle-aches", "fever", "fatigue"],
+        "name": "Laryngitis",
+        "overview": "Laryngitis occurs when your voice box or vocal cords become inflamed from overuse, irritation, or infection. Laryngitis can be acute (short-term), lasting less than three weeks. Or it can be chronic (long-term), lasting more than three weeks. Many conditions can cause the inflammation that results in laryngitis. Viral infections, environmental factors, and bacterial infections can all cause laryngitis.",
+          "causes":[
+              {
+                  "headline":"Acute laryngitis is a temporary condition caused by overusing the vocal cords. It can also be caused by an infection. Treating the underlying condition causes the laryngitis to go away. Acute laryngitis can be caused by:",
+                  "list":[
+                    "Viral infections",
+                    "Straining your vocal chords by talking or yelling",
+                    "Bacterial infections",
+                    "Drinking too much alcohol"
+                      ]
+              },
+              {
+                  "headline":"Chronic laryngitis results from long-term exposure to irritants. It’s usually more severe and has longer-lasting effects than acute laryngitis. Chronic laryngitis can be caused by:",
+                    "list":[
+                        "Frequent exposure to harmful checmicals or allergens",
+                        "Acid reflux",
+                        "Frequent sinus infections",
+                        "Smoking or being around smokers",
+                        "Overusing your voice",
+                        "Low-grade yeast infections caused by frequent use of an asthma inhaler"
+                    ]
+                },
+                {
+                    "headline":"Other causes of laryngitis include:",
+                    "list":[
+                        "Cancer",
+                        "Vocal cord paralysis, which can result from nerve injury due to surgery, injury to the chest or neck, cancer, nerve disorder, or other health conditions",
+                        "Bowing of the vocal cords"
+                    ]
+                }
+          ],
+          "symptoms":[
+            {
+                "headline":"The most common symptoms of laryngitis include:",
+                "list":[
+                    "Weakened voice",
+                    "Loss of voice",
+                    "Hoarse, dry throat",
+                    "Consant tickling or minor throat irritation",
+                    "Cough",
+                    "Sore throat"
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"To prevent dryness or irritation to your vocal cords:",
+                "list":[
+                    "Avoid smoking and stay away from secondhand smoke",
+                    "Limit acohol and caffeine",
+                    "Drink plenty of water",
+                    "Keep spice foods out of your diet",
+                    "Include a variety of healthy foods in your diet",
+                    "Avoid clearing your throat",
+                    "Avoid upper respiratory infections"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    "Use a humidifier or inhale steam to alleviate dryness",
+                    "Get vocal therapy to analyze and correct the eay you use your voice and any abnormal speech patterns that place stress on your vocal cords and voice box",
+                    "Drink lots of fluids",
+                    "Gargele with 1/2 teaspoons of salt and baking soda in warm water",
+                    "Rest your voice",
+                    "Avoid screaming or talking loudly for long periods of time",
+                    "Avoid decongestants which can dry your throat",
+                    "Suck on lozenges to keep your throat lubricated",
+                    "Refrain from whispering which can strain the voice"
+
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"If a virus has caused acute laryngitis, symptoms usually disappear without treatment within seven days. See your doctor if common symptoms don't clear up after a week, or they worsen.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":39,
+        "tags":["itchy-skin", "blisters", "burning-sensation"],
+        "name": "Scabies",
+        "overview": "Scabies is a skin infestation caused by a mite known as the Sarcoptes scabiei. Untreated, these microscopic mites can live on your skin for months. They reproduce on the surface of your skin and then burrow into it and lay eggs. This causes an itchy, red rash to form on the skin.",
+          "causes":[
+              {
+                  "headline":"Scabies is the result of an infestation of tiny, eight-legged mites. These bugs are so small you can’t see them on your skin, but you can certainly see their effects. The mites will burrow into the top layer of your skin to live and feed. Female mites will lay eggs. Your skin will react to the mites and their waste, and you’ll develop a red, itchy rash.These mites are easily passed between people. Direct skin-to-skin contact is the most common way to share the infestation. The mites can also be spread through infested:",
+                  "list":[
+                    "Furniture",
+                    "Clothes",
+                    "Bedding"
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"After the initial exposure to scabies, it can take up to six weeks for symptoms to appear. The symptoms usually develop more quickly in people who’ve had scabies before. The hallmark symptoms of scabies include a rash and intense itching that gets worse at night. Continuous scratching of the infected area can create sores that become infected. If this occurs, additional treatment with antibiotics for the skin infection may be recommended.",
+                "list":[
+      
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"The best way to prevent getting scabies is to avoid direct skin-to-skin contact with a person known to have scabies. It’s also best to avoid unwashed clothing or bedding that’s been used by a person infested with scabies.",
+                "list":[
+                
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Scabies does not usually go away on its own, it is recommended you see a doctor to prescribe medications to help you treat scabies",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Talk to your doctor if you have signs and symptoms that may indicate scabies.",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":40,
+        "tags":["itchy-skin", "blisters", "burning-sensation"],
+        "name": "Dermatitis",
+        "overview": "Dermatitis is a general term for skin inflammation. With dermatitis, your skin will typically look dry, swollen, and red. Depending on the type of dermatitis you have, causes vary. However, it’s not contagious. Dermatitis can be uncomfortable for some. How itchy your skin feels can range from mild to severe. Certain types of dermatitis can last a long time, while others may flare up, depending on the season, what you’re exposed to, or stress.",
+          "causes":[
+              {
+                  "headline":"Contact dermatitis occurs when you come in direct contact with an irritant or allergen. Common materials that cause allergic reactions include:",
+                  "list":[
+                 "Detergents",
+                 "Cosmetics",
+                 "Nickel",
+                 "Poison ivy and oak"
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"In general, the symptoms of dermatitis may include:",
+                "list":[
+                    "Rashes",
+                    "Blisters",
+                    "Dry, cracked skin",
+                    "Itchy skin",
+                    "Painful skin, with stinging or burning",
+                    "Redness",
+                    "Swelling"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Awareness is the first step in avoiding dermatitis. The only way to prevent an allergic reaction is to avoid contact with allergens or substances that cause rashes, like poison ivy. But if you have eczema — which isn’t always preventable — your best option is to prevent a flare-up. To prevent flare-ups",
+                "list":[
+                    "Try to avoid scratching the affected area. Scratching can open or reopen wounds and spread the bacteria to another part of your body.",
+                    "To prevent dry skin, by taking shorter baths, using mild soaps, and bathing in warm water instead of hot. Most people also find relief by moisturizing frequently (especially after a shower).",
+                    "Use water-based moisturizers after washing hands and oil-based moisturizers for extremely dry skin."
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"Most cases of contact dermatitis go away on their own once the substance is no longer in contact with the skin. Here are some tips you can try on your own:",
+                "list":[
+                    "Avoid scratching your irritated skin. Scratching can make the irritation worse or even cause a skin infection that requires antibiotics.",
+                    "Clean your skin with mild soap and lukewarm water to remove any irritants.",
+                    "Stop using any products you think might be causing the problem.",
+                    "Apply bland petroleum jelly like Vaseline to soothe the area.",
+                    "Try using anti-itch treatments such as calamine lotion or hydrocortisone cream (Cortisone-10).",
+                    "If needed, take an antihistamine drug such as diphenhydramine to cut down on itching and to reduce your allergic response.",
+                    "Oatmeal baths to relieve itching"
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"See your doctor if:",
+                "list":[
+                    "You're so uncomfortable that you are losing sleep or are distracted from your daily routines",
+                    "Your skin becomes painful",
+                    "You suspect your skin is infected",
+                    "You've tried self-care steps but your signs and symptoms persist"
+
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":10,
+        "tags":["headaches", "fatigue", "diziness", "fever", "muscle-aches", "nausea"],
+        "name": "Yellow fever",
+        "overview": "Yellow fever is a serious, potentially deadly flu-like disease spread by Aedes aegypti mosquitoes, which also transmit dengue and Zika viruses. It’s characterized by a high fever and jaundice. Jaundice is yellowing of the skin and eyes, which is why this disease is called yellow fever. This disease is most prevalent in certain parts of Africa and South America. It isn’t curable, but you can prevent it with the yellow fever vaccine.",
+          "causes":[
+              {
+                  "headline":"Yellow fever virus (or flavivirus) causes yellow fever, and it’s transmitted when an infected mosquito bites you. Mosquitoes become infected with the virus when they bite a human or monkey with the virus. The disease can’t be spread from one person to another. Mosquitoes breed in tropical rainforests, humid, and semi-humid environments, as well as around bodies of still water. Increased contact between humans and infected mosquitoes, particularly in areas where people haven’t been vaccinated for yellow fever, can create small-scale epidemics.",
+                  "list":[
+                 
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":"Yellow fever develops quickly, with symptoms occurring 3 to 6 days after exposure. The initial symptoms of the infection are similar to those of the influenza virus. They include:",
+                "list":[
+                    "Headaches",
+                    "Muscle aches",
+                    "Joint aches",
+                    "Chills",
+                    "Fever",
+                    "Loss of appetite",
+                    "Back aches",
+                    "Vomitting"
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"Vaccination is the only way to prevent yellow fever. The vaccine for yellow fever is given as a single shot. It contains a live, weakened version of the virus that helps your body create immunity. The vaccine is considered extremely safe. The side effects may include:",
+                "list":[
+                "A mild headache",
+                "Muscle pain",
+                "Fatigue",
+                "A low grade fever"
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"There are no first-aid treatment options available for yellow-fever. Visit a hospital if you suspect you have yellow fever",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"Visit a doctor immediately if you suspect you have yellow fever",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    },
+    {
+        "id":39,
+        "tags":[],
+        "name": "",
+        "overview": "",
+          "causes":[
+              {
+                  "headline":"",
+                  "list":[
+                 
+                    
+                      ]
+              }
+          ],
+          "symptoms":[
+            {
+                "headline":":",
+                "list":[
+      
+
+                ]
+            }
+        ],
+        "prevention":[
+            {
+                "headline":"",
+                "list":[
+                
+                ]
+            }
+        ],
+        "firstAid":[
+            {
+                "headline":"",
+                "list":[
+                    ""
+                ]
+            }
+        ],
+        "triage":[
+            {
+                "message":"",
+                "list":[
+                   ""
+                ]
+            }
+        ]                     
+    }
+]
