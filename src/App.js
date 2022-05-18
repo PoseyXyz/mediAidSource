@@ -17,7 +17,6 @@ function App() {
         <Route exact path='/d' component={DiagnosesList}/>
         <Route exact path='/:slug' component={SymptomDetails}/>
         <Route exact path='/diagnosis/:slug' component={FullDiagnosisDetails}/>
-       
       </Switch>
     </div>
   );

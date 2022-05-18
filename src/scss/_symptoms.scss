@@ -1,246 +1,229 @@
-.symptoms-box{
+.symptoms-box {
     background: #fff;
-    box-shadow: 0 0 6px #DADADA;
-      width: 55%;
-      padding: 2rem;
-      border-radius: 10px;
+    box-shadow: 0 0 6px #dadada;
+    width: 55%;
+    padding: 2rem;
+    border-radius: 10px;
 }
 
-.search-box{
-        padding: .2rem 2rem 1.7rem 2rem;  
-    
-    h3{
+.search-box {
+    padding: 0.2rem 2rem 1.7rem 2rem;
+
+    h3 {
         color: #000;
         font-size: 1.5rem;
-        margin: 1.1rem 0;    
+        margin: 1.1rem 0;
     }
 
-
-    input{
+    input {
         width: 98%;
-        padding: 1rem 0rem 1rem .9rem;
+        padding: 1rem 0rem 1rem 0.9rem;
         border-radius: 10px;
-        transition: .4s ease-in;
-        border:2.5px solid transparent !important;
+        transition: 0.4s ease-in;
+        border: 2.5px solid transparent !important;
         background: #fff;
         font-size: 1rem;
-       
-        box-shadow: 0 0 8px #DADADA;
-        
-        &:focus{
-            border: 2.5px solid #ADCFF7 !important;
+
+        box-shadow: 0 0 8px #dadada;
+
+        &:focus {
+            border: 2.5px solid #adcff7 !important;
             border-radius: 10px !important;
-        outline: none;
+            outline: none;
         }
     }
 }
 
-.symptoms-list{
-    
+.symptoms-list {
     display: grid;
     padding: 2rem;
 
     grid-template-columns: repeat(3, 1fr);
     gap: 2rem;
-    a{
+    a {
         text-decoration: none;
     }
-   
 
-    .symptom{
-    
-             border-radius: 7px;  
-            background: #fff;
-            padding: 1rem;
-            width: 100%;
-            border: none;
-            border: 1px solid lighten($color: #000000, $amount: 89%);
-          font-size: 1rem;
-               
+    .symptom {
+        border-radius: 7px;
+        background: #fff;
+        padding: 1rem;
+        width: 100%;
+        border: none;
+        border: 1px solid lighten($color: #000000, $amount: 89%);
+        font-size: 1rem;
+
         cursor: pointer;
-                display: flex;
-                justify-content: space-between;
-            
-            color: #187FD9;
-            outline: none;
-            text-transform: capitalize;
-            transition: 0.2s ease-in;
-    &:hover{
-        background: #1576D1;
-        color: #fff;
-        transform: scale(1.03);
-    }
-        
+        display: flex;
+        justify-content: space-between;
 
-            i{
-            
-       
-            
-            }
+        color: #187fd9;
+        outline: none;
+        text-transform: capitalize;
+        transition: 0.2s ease-in;
+        &:hover {
+            background: #1576d1;
+            color: #fff;
+            transform: scale(1.03);
+        }
+
+        i {
+        }
     }
 }
 
-.questions-box{
-  background: #fff;
-  box-shadow: 0 0 6px #DADADA;
+.questions-box {
+    background: #fff;
+    box-shadow: 0 0 6px #dadada;
     width: 55%;
     padding: 2rem;
     border-radius: 10px;
-    .headline{
+    .headline {
         text-transform: capitalize;
         margin: 1rem;
     }
-    .sub-headline{
+    .sub-headline {
         margin: 1rem;
     }
-    .question{
+    .question {
         margin: 2.3rem 1rem;
         border-bottom: 1px solid lighten($color: #000000, $amount: 85%);
         padding-bottom: 1.5rem;
-        &-txt{
+        &-txt {
             font-weight: 600;
         }
     }
 
-    p{
+    p {
         font-size: 1.3rem;
-        color: #2B353B;
+        color: #2b353b;
     }
-   
-    .checkbox{
 
+    .checkbox {
         display: inline-flex;
         position: relative;
-        span{
+        span {
             color: #34495e;
-            padding: .5rem .25rem;
+            padding: 0.5rem 0.25rem;
         }
-        & >input{
+        & > input {
             height: 35px;
             width: 35px;
-            border: 1px solid #34495E;
-        
+            border: 1px solid #34495e;
+
             appearance: none;
             border-radius: 4px;
             outline: none;
             transition: 1s ease;
-            background: #ffff;//#41B883;
+            background: #ffff; //#41B883;
             cursor: pointer;
-            & > input:checked{
-                border:1px solid #41b883;
+            & > input:checked {
+                border: 1px solid #41b883;
                 background: #34495e;
-            
             }
-            &:checked + span::before{
-       
+            &:checked + span::before {
                 display: block;
-                content: '\2713';
+                content: "\2713";
                 text-align: center;
                 position: absolute;
                 left: 0.7rem;
                 top: 0.2rem;
                 font-size: 1.7rem;
-                color: #1BBF83;
+                color: #1bbf83;
                 cursor: pointer;
-                
             }
-            &:active{
+            &:active {
                 border: 2px solid #344953;
             }
-
-        }
-
-    }
-   .btn-holder{
-       display: flex;
-       justify-content: space-between;
-       align-items: center;
-       padding: 1rem 0;
-
-       .submit-btn{
-        @extend %primary-btn;
-        font-size: 1rem;
-        cursor: pointer;
-        &:hover{
-            
         }
     }
-    .back-btn{
-        cursor: pointer;
-        padding: .6rem .8rem;
+    .btn-holder {
         display: flex;
-        justify-content: center;
+        justify-content: space-between;
         align-items: center;
-        font-size: 1rem;
-        border: none;
-        outline: none;
-        background: none;
-        color: #187FD9;
-        border-radius: 5px;
-        margin: 0;
-        font-size: 1.2rem;
-        i{
-            margin: 5px .5rem 0 0;
-        }
-        &:hover{
+        padding: 1rem 0;
 
+        .submit-btn {
+            @extend %primary-btn;
+            font-size: 1rem;
+            cursor: pointer;
+            &:hover {
+            }
+        }
+        .back-btn {
+            cursor: pointer;
+            padding: 0.6rem 0.8rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 1rem;
+            border: none;
+            outline: none;
+            background: none;
+            color: #187fd9;
+            border-radius: 5px;
+            margin: 0;
+            font-size: 1.2rem;
+            i {
+                margin: 5px 0.5rem 0 0;
+            }
+            &:hover {
+            }
         }
     }
-   }
 }
-@media screen and (max-width:70rem){
-    .symptoms-list{
+@media screen and (max-width: 70rem) {
+    .symptoms-list {
         grid-template-columns: repeat(2, 1fr);
     }
-}    
-
-
-@media screen and (max-width:57rem){
-.symptoms-box{
-    width: 90%;
-    padding: 1rem;
-    .search-box{
-        padding: .2rem 1.5rem 1.2rem 1.5rem;  
-    
-    h3{
-        font-size: 1rem;
-    }
-    input{
-        width: 96%;
-        padding: .8rem 0rem .8rem .7rem;      
-    }
-    }
-    .symptoms-list{
-        display: grid;
-        padding: 1.5rem;
-        grid-template-columns: repeat(1, 1fr);
-        gap: 1rem      
-    }
 }
 
-.questions-box{
-      width: 90%;
-      padding: 1rem;
-      .sub-headline{
-          margin: 1rem;
-      }
-      .question{
-          margin: 2rem 1rem;
-      }
-  
-      p{
-          font-size: 1.05rem;
-      }
+@media screen and (max-width: 57rem) {
+    .symptoms-box {
+        width: 90%;
+        padding: 1rem;
+        .search-box {
+            padding: 0.2rem 1.5rem 1.2rem 1.5rem;
 
-      .btn-holder{
-        padding: .8rem 0;
-        .submit-btn{
-         font-size: .8rem;
-     }
-     .back-btn{
-         padding: .4rem .6rem;
-         font-size: 1rem;
-     }
+            h3 {
+                font-size: 1rem;
+            }
+            input {
+                width: 96%;
+                padding: 0.8rem 0rem 0.8rem 0.7rem;
+            }
+        }
+        .symptoms-list {
+            display: grid;
+            padding: 1.5rem;
+            grid-template-columns: repeat(1, 1fr);
+            gap: 1rem;
+        }
     }
-    }  
+
+    .questions-box {
+        width: 90%;
+        padding: 1rem;
+        .sub-headline {
+            margin: 1rem;
+        }
+        .question {
+            margin: 2rem 1rem;
+        }
+
+        p {
+            font-size: 1.05rem;
+        }
+
+        .btn-holder {
+            padding: 0.8rem 0;
+            .submit-btn {
+                font-size: 0.8rem;
+            }
+            .back-btn {
+                padding: 0.4rem 0.6rem;
+                font-size: 1rem;
+            }
+        }
+    }
 }

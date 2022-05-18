@@ -1,246 +1,214 @@
-@import './scss/navbar.scss';
-@import './scss/symptoms.scss';
-@import './scss/diagnosesList.scss';
-@import './scss/diagnosisDetails.scss';
+@import "./scss/navbar.scss";
+@import "./scss/symptoms.scss";
+@import "./scss/diagnosesList.scss";
+@import "./scss/diagnosisDetails.scss";
 
-
-%primary-btn{
-  background: #1BBF83;
+%primary-btn {
+  background: #1bbf83;
   color: #fff;
-  padding: .8rem 1.3rem;
+  padding: 0.8rem 1.3rem;
   border: none;
   outline: none;
   border-radius: 5px;
   text-align: center;
   cursor: pointer;
-transition: .5s ease-in-out;
-margin: .2rem;
-
+  transition: 0.5s ease-in-out;
+  margin: 0.2rem;
 }
-%page-boxes{
+%page-boxes {
   background: #fff;
-  box-shadow: 0 0 6px #DADADA;
+  box-shadow: 0 0 6px #dadada;
   border-radius: 10px;
 }
-a{
+a {
   text-decoration: none;
 }
 
 .App {
-padding: 0;
-margin: 0;
-box-sizing: border-box;
-background: #F5F7F9;
-min-height: 100vh;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background: #f5f7f9;
+  min-height: 100vh;
 
-font-family: 'Poppins', sans-serif;font-family: 'Poppins', sans-serif;
-font-family: 'Open Sans', sans-serif;
-font-family: "Proxima Nova",system-ui,sans-serif;
-//color: #231f20 !important;
+  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Proxima Nova", system-ui, sans-serif;
+  //color: #231f20 !important;
 }
 
+.home {
+  width: 60%;
+  padding: 2.5em;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  @extend %page-boxes;
 
+  .txt-holder {
+    p {
+      max-width: 45rem;
+      line-height: 1.4rem;
+      color: #2b353b;
+    }
+    li {
+      font-size: 1.1rem;
+      margin: 0.8rem 0;
+    }
+    button {
+      @extend %primary-btn;
+    }
+  }
 
-.home{
-      width: 60%;
-      padding: 2.5em;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    @extend %page-boxes;
-      
-    
-.txt-holder{
-  p{
-    max-width: 45rem;
-    line-height:1.4rem;
-    color: #2B353B;
-  }
-li{
-  font-size: 1.1rem;
-  margin: .8rem 0;
-}
-  button{@extend %primary-btn;}
-  }
-  
-  .img-holder{
+  .img-holder {
     display: flex;
     justify-content: center;
     align-items: center;
-    img{
+    img {
       width: 32em;
       height: 25em;
     }
   }
-    
-
 }
-.altSidebar{
+.altSidebar {
   display: none;
-    
-  
-  .progress-bar{
+
+  .progress-bar {
     display: flex;
     width: 6rem;
-    height: .5rem;
+    height: 0.5rem;
     background: #fff;
     border-radius: 3px;
-   
-    span{
-      background: #1BBF83;
+
+    span {
+      background: #1bbf83;
       border-radius: 3px;
-      height: .5rem;
+      height: 0.5rem;
     }
   }
 }
 
-
-.body{
+.body {
   display: flex;
-  justify-content: center;
-align-items: center;
-flex-direction: column;
-position: relative;
-.sidebar{
-  display: flex;
-  gap: 2rem;
-  margin: 2rem;
   justify-content: center;
   align-items: center;
-  font-size: 1.2rem;
-  background: #1BBF83;
-  border-radius: 10px;
-  width: 58%;
-  
-  i{
-    margin-top: 7px;
-  }
-
-
-
-   
-    
-  }
-}
-@media screen and (max-width:100rem){
-  .home{
-    width: 80% !important;
-    padding: 2em;
-.txt-holder{
-p{
-  max-width: 45rem;
-  line-height:1.4rem;
-  color: #2B353B;
-}
-li{
-font-size: 1.05rem;
-margin: .8rem 0;
-}
-
-}
-
-.img-holder{
-  img{
-    width: 25em;
-    height: 20em;
-  }
-}
-  
-
-}
-.body{
-  .sidebar{
+  flex-direction: column;
+  position: relative;
+  .sidebar {
+    display: flex;
     gap: 2rem;
     margin: 2rem;
-    font-size: 1.1rem;
-    background: #1BBF83;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background: #1bbf83;
     border-radius: 10px;
-    width: 60%;
-    
-    i{
+    width: 58%;
+
+    i {
       margin-top: 7px;
     }
   }
 }
+@media screen and (max-width: 100rem) {
+  .home {
+    width: 80% !important;
+    padding: 2em;
+    .txt-holder {
+      p {
+        max-width: 45rem;
+        line-height: 1.4rem;
+        color: #2b353b;
+      }
+      li {
+        font-size: 1.05rem;
+        margin: 0.8rem 0;
+      }
+    }
 
+    .img-holder {
+      img {
+        width: 25em;
+        height: 20em;
+      }
+    }
+  }
+  .body {
+    .sidebar {
+      gap: 2rem;
+      margin: 2rem;
+      font-size: 1.1rem;
+      background: #1bbf83;
+      border-radius: 10px;
+      width: 60%;
+
+      i {
+        margin-top: 7px;
+      }
+    }
+  }
 }
-@media screen and (max-width:70rem){
-  .altSidebar{
+@media screen and (max-width: 70rem) {
+  .altSidebar {
     display: flex !important;
     font-size: 1.2rem;
     justify-content: space-between;
     align-items: center;
     width: 60%;
   }
-  .sidebar{
+  .sidebar {
     display: none !important;
   }
-  
 }
 
-@media screen and (max-width:64rem){
-  .home{
+@media screen and (max-width: 64rem) {
+  .home {
     width: 80% !important;
     padding: 2em;
-  display:flex;
-flex-direction: column-reverse;
-    
-  
-.txt-holder{
+    display: flex;
+    flex-direction: column-reverse;
 
-li{
-font-size: 1rem;
-margin: .8rem 0;
-}
+    .txt-holder {
+      li {
+        font-size: 1rem;
+        margin: 0.8rem 0;
+      }
+    }
 
-}
-
-.img-holder{
-  img{
-    width: 22em;
-    height: 15em;
+    .img-holder {
+      img {
+        width: 22em;
+        height: 15em;
+      }
+    }
+  }
+  %primary-btn {
+    padding: 0.7rem 1rem;
+    margin: 0.1rem;
   }
 }
-  
-
-}
-%primary-btn{
-  padding: .7rem 1rem;
-margin: .1rem;
-
-}
-
-}
-@media screen and (max-width:57rem){
-  .altSidebar{
+@media screen and (max-width: 57rem) {
+  .altSidebar {
     width: 90%;
   }
 }
-@media screen and (max-width:19rem){
-  .home{
+@media screen and (max-width: 19rem) {
+  .home {
     width: 70% !important;
     padding: 1.7em;
 
-    
-  
-.txt-holder{
+    .txt-holder {
+      li {
+        font-size: 0.9rem;
+        margin: 0.6rem 0;
+      }
+    }
 
-li{
-font-size: .9rem;
-margin: .6rem 0;
-}
-
-}
-
-.img-holder{
-  img{
-    width: 15em;
-    height: 10em;
+    .img-holder {
+      img {
+        width: 15em;
+        height: 10em;
+      }
+    }
   }
 }
-  
-
-}
-
-
-}
-

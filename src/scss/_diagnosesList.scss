@@ -1,94 +1,86 @@
-.diagnoses-list-box{
+.diagnoses-list-box {
+  background: #fff;
+  box-shadow: 0 0 6px #dadada;
+  width: 55%;
+  padding: 2rem;
+  border-radius: 10px;
+  .headline {
+    padding: 0 1rem;
+  }
+  .sub-headline {
+    font-size: 1.1rem;
+    letter-spacing: 0.2px;
+    color: darken($color: #f0f1f2, $amount: 36%);
+    border-bottom: 1px solid lighten($color: #000000, $amount: 92%);
+    padding: 0 1.1rem;
+    padding-bottom: 1rem;
+    margin: 0;
+  }
+  .diagnosis {
     background: #fff;
-    box-shadow: 0 0 6px #DADADA;
-      width: 55%;
-      padding: 2rem;
-      border-radius: 10px;
-      .headline{
-        padding: 0 1rem;
-      }
-      .sub-headline{
-          font-size: 1.1rem;
-          letter-spacing: .2px;
-          color: darken($color: #F0F1F2, $amount: 36%);
-          border-bottom: 1px solid lighten($color: #000000, $amount: 92%);
-          padding: 0 1.1rem;
-          padding-bottom: 1rem;
-          margin: 0;
-          
-      }
-    .diagnosis{
-        background: #fff;
-        padding: 1rem;
-width: 100%;
-border: none;
-        border-bottom: 1px solid lighten($color: #000000, $amount: 92%);
+    padding: 1rem;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid lighten($color: #000000, $amount: 92%);
 
-        font-size: 1.2rem;
-        
-        cursor: pointer;
-        display: flex;
-        justify-content: space-between;
-       
-    color: #187FD9;
+    font-size: 1.2rem;
+
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+
+    color: #187fd9;
     outline: none;
     text-transform: capitalize;
     transition: 0.2s ease-in;
-    &:hover{
-        background: #1576D1;
-        color: #fff;
+    &:hover {
+      background: #1576d1;
+      color: #fff;
     }
-    
 
-        i{
-   
-         
-        }
+    i {
     }
+  }
 }
-.less-likely-diagnosis{
+.less-likely-diagnosis {
   display: flex;
   justify-content: flex-start !important;
-align-items: center;
+  align-items: center;
   background: #fff;
   padding: 1rem;
-width: 100%;
-border: none;
-
+  width: 100%;
+  border: none;
 
   font-size: 1em;
-  
+
   cursor: pointer;
 
- 
-color: #187FD9;
-outline: none;
-i{
-  margin-top: 1px;
-  margin-right:.3rem ;
+  color: #187fd9;
+  outline: none;
+  i {
+    margin-top: 1px;
+    margin-right: 0.3rem;
+  }
 }
-
-}
-.restart-btn{
+.restart-btn {
   @extend %primary-btn;
   float: right;
   padding: 1.1rem !important;
   margin: 1rem 0 !important;
 }
 
-@media screen and (max-width:57rem){
-    .diagnoses-list-box{
-          width: 85%;
-          padding: 1rem;
-          .headline{
-            padding: 0 1rem;
-            font-size: 1.5rem;
-            margin: .5rem 0;
-          }
-          .sub-headline{
-            font-size: 1rem;
-            letter-spacing: 0;            
-        }
+@media screen and (max-width: 57rem) {
+  .diagnoses-list-box {
+    width: 85%;
+    padding: 1rem;
+    .headline {
+      padding: 0 1rem;
+      font-size: 1.5rem;
+      margin: 0.5rem 0;
     }
-   
+    .sub-headline {
+      font-size: 1rem;
+      letter-spacing: 0;
+    }
+  }
 }
